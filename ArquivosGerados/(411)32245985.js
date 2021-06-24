@@ -1,0 +1,1 @@
+    $.ajax({&#xD;&#xA;      url: "/search",&#xD;&#xA;      type: "POST",&#xD;&#xA;      data: {&#xD;&#xA;        value: key &#xD;&#xA;      },&#xD;&#xA;      complete: function(){&#xD;&#xA;        console.log('success');&#xD;&#xA;      }&#xD;&#xA;      });

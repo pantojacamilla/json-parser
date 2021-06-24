@@ -1,0 +1,1 @@
+    .myelem {&#xD;&#xA;      position: relative;&#xD;&#xA;      padding-left: 20px;&#xD;&#xA;    }&#xD;&#xA;    .myelem:before {&#xD;&#xA;      content: "";&#xD;&#xA;      position: absolute;&#xD;&#xA;      top: 0px;&#xD;&#xA;      left: 0px;&#xD;&#xA;      width: 1px;&#xD;&#xA;      height: calc(50% + 2px);&#xD;&#xA;      background-color: red;&#xD;&#xA;    }

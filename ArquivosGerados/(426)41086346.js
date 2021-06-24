@@ -1,0 +1,1 @@
+    var x = 5;&#xD;&#xA;    function f0() {&#xD;&#xA;        return function () {&#xD;&#xA;    	var y = 10;&#xD;&#xA;    	var z = x + y;&#xD;&#xA;    	console.log('x + y is: ' + z);&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;    var myFunc = f0();&#xD;&#xA;    myFunc();&#xD;&#xA;    x = 10;&#xD;&#xA;    myFunc();

@@ -1,0 +1,1 @@
+    client.writeData({&#xD;&#xA;      data: {&#xD;&#xA;        name: 'mr x',&#xD;&#xA;        address: {&#xD;&#xA;          country: 'y',&#xD;&#xA;          city: 'z'&#xD;&#xA;        },&#xD;&#xA;        age: 25&#xD;&#xA;      }&#xD;&#xA;    })

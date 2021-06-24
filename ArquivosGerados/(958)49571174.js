@@ -1,0 +1,1 @@
+    var chart = Highcharts.chart('container', {&#xD;&#xA;      chart: {&#xD;&#xA;        type: 'pie'&#xD;&#xA;      },&#xD;&#xA;      series: [{&#xD;&#xA;        data: []&#xD;&#xA;      }]&#xD;&#xA;    });&#xD;&#xA;    // the button action&#xD;&#xA;    $('#button').click(function() {&#xD;&#xA;      chart.series[0].setData([129.2, 144.0, 176.0]);&#xD;&#xA;    });

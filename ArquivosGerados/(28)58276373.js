@@ -1,0 +1,1 @@
+none&#xD;&#xA;Input: [3,2,1,6,0,5]&#xD;&#xA;Output: return the tree root node representing the following tree:&#xD;&#xA;      6&#xD;&#xA;    /   \&#xD;&#xA;   3     5&#xD;&#xA;    \    / &#xD;&#xA;     2  0   &#xD;&#xA;       \&#xD;&#xA;        1

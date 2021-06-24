@@ -1,0 +1,1 @@
+    $(document).ready(function(){&#xD;&#xA;      $('.lang-switch').hover(&#xD;&#xA;        function() {&#xD;&#xA;          $('.lang-inactive').hide();&#xD;&#xA;          $('.lang-active').show();&#xD;&#xA;        }, function() {&#xD;&#xA;          $('.lang-active').hide();&#xD;&#xA;          $('.lang-inactive').show();&#xD;&#xA;        }&#xD;&#xA;      );&#xD;&#xA;    });

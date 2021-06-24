@@ -1,0 +1,1 @@
+    <style>.mytable {&#xD;&#xA;      width: 200px;&#xD;&#xA;      border-width: 1px;&#xD;&#xA;      padding: 8px;&#xD;&#xA;      border-style: solid;&#xD;&#xA;      border-color: #517994;&#xD;&#xA;      background-color: lightblue;&#xD;&#xA;    }&#xD;&#xA;    .mytable td {&#xD;&#xA;      border: 1px solid #000000;&#xD;&#xA;    }&#xD;&#xA;    </style>

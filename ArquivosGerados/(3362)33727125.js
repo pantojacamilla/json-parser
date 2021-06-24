@@ -1,0 +1,1 @@
+    var Example = React.createClass({&#xD;&#xA;      render: function() {&#xD;&#xA;        return ( &#xD;&#xA;          < div >&#xD;&#xA;            < h1 > Hello < /h1>&#xD;&#xA;          </div >&#xD;&#xA;        );&#xD;&#xA;      }&#xD;&#xA;    });&#xD;&#xA;    ReactDOM.render( < Example / > , document.getElementById('example'));

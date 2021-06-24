@@ -1,0 +1,1 @@
+    var rs;&#xD;&#xA;    function selectAllFromKullanici(callback) {       &#xD;&#xA;      Kullanici.find(function (err,results) {&#xD;&#xA;        rs = results;&#xD;&#xA;        callback(rs);&#xD;&#xA;      });&#xD;&#xA;    };&#xD;&#xA;    module.exports.usersGET = function(req,res,rs) {&#xD;&#xA;      console.log(rs);&#xD;&#xA;    }

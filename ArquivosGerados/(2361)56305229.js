@@ -1,0 +1,1 @@
+    .bar-long {&#xD;&#xA;        height: 5px;&#xD;&#xA;        background-color: #009ACF;&#xD;&#xA;        width: 0px;&#xD;&#xA;        z-index: 1000;&#xD;&#xA;        position: fixed;&#xD;&#xA;        top: 0;&#xD;&#xA;        left: 0;&#xD;&#xA;    }&#xD;&#xA;    .bar-long2{&#xD;&#xA;        background-color: lightgray;&#xD;&#xA;    }

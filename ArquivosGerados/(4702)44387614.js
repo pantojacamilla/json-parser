@@ -1,0 +1,1 @@
+    function setup() {&#xD;&#xA;      createCanvas(200,200);&#xD;&#xA;    }&#xD;&#xA;    function draw() {&#xD;&#xA;      background(32);&#xD;&#xA;      rectangle();&#xD;&#xA;    }&#xD;&#xA;    function rectangle() {&#xD;&#xA;      stroke(255);&#xD;&#xA;      fill(255,255,255,100);&#xD;&#xA;      rect(70,70,60,60,10);&#xD;&#xA;    }

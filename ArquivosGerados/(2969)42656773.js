@@ -1,0 +1,1 @@
+    <div class="col-sm-6">&#xD;&#xA;      <div class="overlay">&#xD;&#xA;      </div>&#xD;&#xA;      <!-- overlay continer -->&#xD;&#xA;      <div class="img-container">&#xD;&#xA;        <img id="portimg" src="images/port.jpg" alt="">&#xD;&#xA;      </div>&#xD;&#xA;      <!-- img container -->&#xD;&#xA;    </div>&#xD;&#xA;    <!-- col -->

@@ -1,0 +1,1 @@
+    function validateRadios() {&#xD;&#xA;      var c = document.getElementsByName("qualification");&#xD;&#xA;      for(var a=0;a<=c.length;a++) {&#xD;&#xA;        if(c[a].checked ) {&#xD;&#xA;          alert("Form OK!");&#xD;&#xA;          return true;&#xD;&#xA;        }&#xD;&#xA;      }&#xD;&#xA;      alert("Please select one");&#xD;&#xA;      return false;&#xD;&#xA;    } 

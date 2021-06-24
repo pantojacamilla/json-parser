@@ -1,0 +1,1 @@
+    if($_SERVER['REQUEST_METHOD']=='POST'){&#xD;&#xA;      &#xD;&#xA;     $jsondata = json_decode(file_get_contents("php://input"),true);&#xD;&#xA;    &#xD;&#xA;        $user= $jsondata['user'];&#xD;&#xA;        $status = $jsondata['states'];&#xD;&#xA;    &#xD;&#xA;        $Query = "insert table(user,states,) &#xD;&#xA;        values ('$user','$status ')";&#xD;&#xA;    }

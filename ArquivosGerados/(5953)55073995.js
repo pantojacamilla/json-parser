@@ -1,0 +1,1 @@
+    < script >&#xD;&#xA;      $(document).ready(function() {&#xD;&#xA;        $('#example').DataTable({&#xD;&#xA;          colReorder: true,&#xD;&#xA;          "scrollX": true,&#xD;&#xA;          "processing": true,&#xD;&#xA;          "serverSide": true,&#xD;&#xA;          "ajax": "rep_down_data.php"&#xD;&#xA;        });&#xD;&#xA;      }); <&#xD;&#xA;    /script>

@@ -1,0 +1,1 @@
+    .word {&#xD;&#xA;      font-family: arial, sans-serif;&#xD;&#xA;      font-size: 14px;&#xD;&#xA;      line-height: 1.25em;&#xD;&#xA;    }&#xD;&#xA;    .active {&#xD;&#xA;      color: red;&#xD;&#xA;    }&#xD;&#xA;    .active-row {&#xD;&#xA;      color: red;&#xD;&#xA;    }

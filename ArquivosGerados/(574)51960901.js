@@ -1,0 +1,1 @@
+    def create&#xD;&#xA;      @post = @topic.posts.build(post_params)&#xD;&#xA;      @post.user = current_user&#xD;&#xA;      respond_to do |format|&#xD;&#xA;        if @post.save&#xD;&#xA;          # Success&#xD;&#xA;        else&#xD;&#xA;          format.js { render 'posts/new' }&#xD;&#xA;        end&#xD;&#xA;      end&#xD;&#xA;    end

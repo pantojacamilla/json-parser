@@ -1,0 +1,1 @@
+    .App {&#xD;&#xA;      text-align: center;&#xD;&#xA;    }&#xD;&#xA;    .Card {&#xD;&#xA;      margin: 0 auto;&#xD;&#xA;      width: 50%;&#xD;&#xA;      padding: 50px;&#xD;&#xA;      border: 1px solid black;&#xD;&#xA;      border-radius: 5px;&#xD;&#xA;      font-size: 40px;&#xD;&#xA;    }&#xD;&#xA;    .arrow_panel button {&#xD;&#xA;      margin: 10px;&#xD;&#xA;    }

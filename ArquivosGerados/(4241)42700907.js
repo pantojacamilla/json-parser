@@ -1,0 +1,1 @@
+        .search_form{&#xD;&#xA;	     display: none;&#xD;&#xA;         float: right;&#xD;&#xA;        }&#xD;&#xA;        .login{&#xD;&#xA;         display:none;&#xD;&#xA;         float: right;&#xD;&#xA;         }&#xD;&#xA;        .carrello{&#xD;&#xA;         display:none;&#xD;&#xA;         float: right;&#xD;&#xA;        }

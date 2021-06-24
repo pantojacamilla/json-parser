@@ -1,0 +1,1 @@
+    function foo() {&#xD;&#xA;      bar();&#xD;&#xA;    }&#xD;&#xA;    function bar() {&#xD;&#xA;      var tags = document.getElementsByTagName('example');&#xD;&#xA;      _.forEach(tags, function(value) {&#xD;&#xA;        console.log(tags.length);&#xD;&#xA;        value.innerHTML = '<example>Inserted</example>';&#xD;&#xA;      });&#xD;&#xA;    }&#xD;&#xA;    foo();

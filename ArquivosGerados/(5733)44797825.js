@@ -1,0 +1,1 @@
+    function f() {&#xD;&#xA;      console.log("foo");&#xD;&#xA;      setTimeout(g, 0);&#xD;&#xA;      console.log("baz");&#xD;&#xA;      h();&#xD;&#xA;    }&#xD;&#xA;    function g() {&#xD;&#xA;      console.log("bar");&#xD;&#xA;    }&#xD;&#xA;    function h() {&#xD;&#xA;      console.log("blix");&#xD;&#xA;    }&#xD;&#xA;    f();

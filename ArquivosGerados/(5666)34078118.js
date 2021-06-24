@@ -1,0 +1,1 @@
+    #navbar {&#xD;&#xA;      transition: all 0.8s ease;&#xD;&#xA;    }&#xD;&#xA;    .banner-container {&#xD;&#xA;      min-height: 200px !important;&#xD;&#xA;      background: black;&#xD;&#xA;    }&#xD;&#xA;    .full-width {&#xD;&#xA;      max-width: 100%;&#xD;&#xA;    }

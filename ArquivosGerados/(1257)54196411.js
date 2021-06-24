@@ -1,0 +1,1 @@
+    function showmodal() {&#xD;&#xA;      $('.ui.modal').modal('show');&#xD;&#xA;    }&#xD;&#xA;    if ($('.ui.dropdown').length) {&#xD;&#xA;      $('.ui.dropdown').dropdown({&#xD;&#xA;        useLabels: false,&#xD;&#xA;        forceSelection: false,&#xD;&#xA;        autoFocus: false&#xD;&#xA;      });&#xD;&#xA;    }

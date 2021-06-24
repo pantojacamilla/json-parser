@@ -1,0 +1,1 @@
+    <style>&#xD;&#xA;    .partsTable &#xD;&#xA;    {&#xD;&#xA;    	border-collapse: collapse;&#xD;&#xA;    }&#xD;&#xA;    .sideForPartsTable &#xD;&#xA;    {&#xD;&#xA;    	border: 3px solid #05788D;&#xD;&#xA;    }&#xD;&#xA;    </style>

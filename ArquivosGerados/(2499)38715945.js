@@ -1,0 +1,1 @@
+    $('.input[type=\'text\']').keyup(function(){        &#xD;&#xA;      $.ajax({&#xD;&#xA;        type: 'POST',&#xD;&#xA;        url: 'index.php',&#xD;&#xA;        data: $('.input[type=\'text\']'),&#xD;&#xA;        dataType: 'json',&#xD;&#xA;        success: function(json) {&#xD;&#xA;          alert('done');&#xD;&#xA;        }&#xD;&#xA;      });&#xD;&#xA;    });

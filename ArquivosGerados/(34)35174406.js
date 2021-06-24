@@ -1,0 +1,1 @@
+    <?php&#xD;&#xA;    $connection = mysql_connect('localhost', 'root', 'root');&#xD;&#xA;    if (!$connection){&#xD;&#xA;        die("Database Connection Failed" . mysql_error());&#xD;&#xA;    }&#xD;&#xA;    $select_db = mysql_select_db('test');&#xD;&#xA;    if (!$select_db){&#xD;&#xA;        die("Database Selection Failed" . mysql_error());&#xD;&#xA;    }&#xD;&#xA;    ?>

@@ -1,0 +1,1 @@
+    var swiper = new Swiper('.swiper-container', {&#xD;&#xA;        slidesPerView: 3,&#xD;&#xA;        slidesPerGroup: 1,&#xD;&#xA;        loop: true,&#xD;&#xA;        loopFillGroupWithBlank: true,&#xD;&#xA;        navigation: {&#xD;&#xA;            nextEl: '.swiper-button-next',&#xD;&#xA;            prevEl: '.swiper-button-prev',&#xD;&#xA;        },&#xD;&#xA;    });

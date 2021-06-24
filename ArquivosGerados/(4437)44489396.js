@@ -1,0 +1,1 @@
+    function One_Main(){&#xD;&#xA;        function Alpha(){&#xD;&#xA;            console.log("Alpha");&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;    One_Main(); &#xD;&#xA;    function Two_Main(){&#xD;&#xA;        Alpha();&#xD;&#xA;    }&#xD;&#xA;    Two_Main();

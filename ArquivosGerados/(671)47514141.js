@@ -1,0 +1,1 @@
+    .search-box {&#xD;&#xA;      margin: 5px;&#xD;&#xA;    }&#xD;&#xA;    .panel-heading {&#xD;&#xA;      font-weight: bold;&#xD;&#xA;    }&#xD;&#xA;    .table-container .panel-body {&#xD;&#xA;      padding: 0;&#xD;&#xA;    }&#xD;&#xA;    .table-container table tr th {&#xD;&#xA;      font-weight: bold;&#xD;&#xA;    }

@@ -1,0 +1,1 @@
+    $(document).ready(function(){&#xD;&#xA;      $("#flip").click(function(){&#xD;&#xA;        $('html, body').on('scroll touchmove mousewheel', function(e){&#xD;&#xA;          e.preventDefault();&#xD;&#xA;          e.stopPropagation();&#xD;&#xA;          return false;&#xD;&#xA;        });&#xD;&#xA;        $("#panel").slideToggle("slow");&#xD;&#xA;      });&#xD;&#xA;    });

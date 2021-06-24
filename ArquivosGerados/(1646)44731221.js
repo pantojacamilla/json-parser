@@ -1,0 +1,1 @@
+    import React from 'react';&#xD;&#xA;    import $ from 'jquery';&#xD;&#xA;    import AirDatepicker from 'air-datepicker';&#xD;&#xA;    class Datepicker extends React.Component {&#xD;&#xA;      render() {&#xD;&#xA;        return(&#xD;&#xA;          <AirDatepicker />&#xD;&#xA;        )&#xD;&#xA;      }&#xD;&#xA;    }&#xD;&#xA;    export default Datepicker;

@@ -1,0 +1,1 @@
+    series: {&#xD;&#xA;        cursor: 'pointer',&#xD;&#xA;        point: {&#xD;&#xA;            events:{&#xD;&#xA;                click:function(){&#xD;&#xA;                    var myVariable = this.name;&#xD;&#xA;                  $.get('my_page.php',{"brazil_state":myVariable});&#xD;&#xA;                }&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;    }

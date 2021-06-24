@@ -1,0 +1,1 @@
+    //app.module.ts&#xD;&#xA;    @NgModule({&#xD;&#xA;      declarations: [&#xD;&#xA;        AppComponent&#xD;&#xA;      ],&#xD;&#xA;      imports: [&#xD;&#xA;        BrowserModule,&#xD;&#xA;        ChildModule&#xD;&#xA;      ],&#xD;&#xA;      providers: [],&#xD;&#xA;      bootstrap: [AppComponent]&#xD;&#xA;    })&#xD;&#xA;    export class AppModule { }

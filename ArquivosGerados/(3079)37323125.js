@@ -1,0 +1,1 @@
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>&#xD;&#xA;    <html ng-App="app">&#xD;&#xA;      &#xD;&#xA;      <div ng-controller= "InsController">&#xD;&#xA;        &#xD;&#xA;        <div>{{ }}</div>&#xD;&#xA;        &#xD;&#xA;        </div>&#xD;&#xA;      &#xD;&#xA;      </html>

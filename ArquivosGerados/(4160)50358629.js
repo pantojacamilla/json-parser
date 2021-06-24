@@ -1,0 +1,1 @@
+    import Foundation&#xD;&#xA;    class Budget {&#xD;&#xA;        &#xD;&#xA;        private var _grossIncome: Int!&#xD;&#xA;        &#xD;&#xA;        var grossIncome: Int {&#xD;&#xA;            return _grossIncome&#xD;&#xA;        }&#xD;&#xA;        &#xD;&#xA;        init(grossIncome: Int) {&#xD;&#xA;            self._grossIncome = grossIncome&#xD;&#xA;        }&#xD;&#xA;    }

@@ -1,0 +1,1 @@
+    function num2() {&#xD;&#xA;    mn = document.getElementById('nsum2').value;&#xD;&#xA;    }&#xD;&#xA;    function plus() {&#xD;&#xA;    sum = +nm + +mn;&#xD;&#xA;    if (nm == null || mn == null) {&#xD;&#xA;    alert('no data');&#xD;&#xA;    }&#xD;&#xA;    else {&#xD;&#xA;    alert(sum);&#xD;&#xA;    }}

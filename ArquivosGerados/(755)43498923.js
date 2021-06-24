@@ -1,0 +1,1 @@
+<!DOCTYPE html>&#xD;&#xA;<html>&#xD;&#xA;<head>&#xD;&#xA;  <style>&#xD;&#xA;  * {&#xD;&#xA;    margin: 0;&#xD;&#xA;    padding: 0;&#xD;&#xA;    overflow: hidden;&#xD;&#xA;  }&#xD;&#xA;  </style>&#xD;&#xA;</head>&#xD;&#xA;<body>&#xD;&#xA;  <canvas id="canvas">&#xD;&#xA;  </canvas>&#xD;&#xA;</body>&#xD;&#xA;</html>

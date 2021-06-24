@@ -1,0 +1,1 @@
+    var a = [2,3,3,3,2,43];&#xD;&#xA;    var t = [...new Set(a)];&#xD;&#xA;    for ( var k = 0, l = t.length; k < l; k ++ ) {&#xD;&#xA;    	for ( var i = 0, l = a.length; i < l; i ++ ) {&#xD;&#xA;    	&#xD;&#xA;    		if (a[i] == t[k]) {&#xD;&#xA;    	&#xD;&#xA;    		console.log(k);		&#xD;&#xA;    	}&#xD;&#xA;    };&#xD;&#xA;    };

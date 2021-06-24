@@ -1,0 +1,1 @@
+    div {&#xD;&#xA;      height: 100px;&#xD;&#xA;      width: 100px;&#xD;&#xA;      background: #000;&#xD;&#xA;      transition: 1s;&#xD;&#xA;    }&#xD;&#xA;    .hide {&#xD;&#xA;      display: none; /* added "display:none" in this example */&#xD;&#xA;      opacity: 0;&#xD;&#xA;    }&#xD;&#xA;    .show {&#xD;&#xA;      opacity: 1;&#xD;&#xA;    }

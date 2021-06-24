@@ -1,0 +1,1 @@
+    <!DOCTYPE html>&#xD;&#xA;    <html>&#xD;&#xA;    	<head>&#xD;&#xA;    	    <meta charset="utf-8">&#xD;&#xA;    	</head>&#xD;&#xA;    	<body>&#xD;&#xA;    	    <div id="app"></div>&#xD;&#xA;    	    <script type="text/javascript" src='/public/bundle.js'></script>&#xD;&#xA;    	</body>&#xD;&#xA;    <html/>

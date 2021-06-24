@@ -1,0 +1,1 @@
+    async function getStore() {&#xD;&#xA;        try {&#xD;&#xA;          let bookable = await getBookable();&#xD;&#xA;          let booked = await getBooked();&#xD;&#xA;          let runquery = await runQuery();&#xD;&#xA;          redirectUser();&#xD;&#xA;        } catch(error) {&#xD;&#xA;          console.error(error);&#xD;&#xA;        }&#xD;&#xA;      }

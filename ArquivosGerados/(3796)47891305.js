@@ -1,0 +1,1 @@
+    var buz = {&#xD;&#xA;      fog: 'stack',&#xD;&#xA;      snow: 'white'&#xD;&#xA;    };&#xD;&#xA;    for (var key in buz) {&#xD;&#xA;      if (buz.hasOwnProperty(key)) {&#xD;&#xA;      console.log(`this is fog {$key} for sure. Value: {$buz[key]}`);&#xD;&#xA;      } else {&#xD;&#xA;        console.log(key); // toString or something else&#xD;&#xA;      }&#xD;&#xA;    }

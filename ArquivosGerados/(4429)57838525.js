@@ -1,0 +1,1 @@
+    html {&#xD;&#xA;      max-width: 1080px;&#xD;&#xA;      width: 100%;&#xD;&#xA;      margin: auto;&#xD;&#xA;      text-align: center;&#xD;&#xA;    }&#xD;&#xA;    canvas{&#xD;&#xA;      border: 1px solid black;&#xD;&#xA;    }&#xD;&#xA;    .canvas-container {&#xD;&#xA;      margin: auto;&#xD;&#xA;    }

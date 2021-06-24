@@ -1,0 +1,1 @@
+    var promise = $.ajax({&#xD;&#xA;	    url: "myjson.json",&#xD;&#xA;        method: "post",&#xD;&#xA;		data:data,&#xD;&#xA;        dataType: 'json'&#xD;&#xA;    });	&#xD;&#xA;	&#xD;&#xA;	promise.done(function (result) {&#xD;&#xA;		window[callbackFunction](result);&#xD;&#xA;	})

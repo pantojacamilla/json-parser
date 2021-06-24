@@ -1,0 +1,1 @@
+    db.Collection.aggregate([&#xD;&#xA;    {&#xD;&#xA;       $project: {&#xD;&#xA;          all_bills: ‘$all_count’,&#xD;&#xA;          settled_bills: { $size: ’$settled’ },&#xD;&#xA;          overdue_bills: { $size: ‘$overdue’ },&#xD;&#xA;          settled_percentage: { $divide: [‘$settled_bills’, ‘$overdue_bills’] }&#xD;&#xA;       }&#xD;&#xA;    }&#xD;&#xA;    ])

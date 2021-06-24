@@ -1,0 +1,1 @@
+//module declaration &#xD;&#xA;var app = angular.module('myApp',[]);&#xD;&#xA;//controller declaration&#xD;&#xA;app.controller(function($scope){&#xD;&#xA;	$scope.name = "Joseph";&#xD;&#xA;});&#xD;&#xA;//app declaration&#xD;&#xA;app.directive('myStudent',function(){&#xD;&#xA;	return{&#xD;&#xA;		template: "Hi! Dear!! {{name}}"&#xD;&#xA;	}&#xD;&#xA;});

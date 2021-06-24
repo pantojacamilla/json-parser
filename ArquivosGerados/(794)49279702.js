@@ -1,0 +1,1 @@
+    class foo {&#xD;&#xA;      constructor() {&#xD;&#xA;        this._pos = 0;&#xD;&#xA;      }&#xD;&#xA;      &#xD;&#xA;      bar(arg) {&#xD;&#xA;        console.log(arg);&#xD;&#xA;      }&#xD;&#xA;    }&#xD;&#xA;    const obj = new foo();

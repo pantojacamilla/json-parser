@@ -1,0 +1,1 @@
+    new Vue({&#xD;&#xA;        el: '#app',&#xD;&#xA;        data: {&#xD;&#xA;            message: 'Edit'&#xD;&#xA;        },&#xD;&#xA;        methods: {&#xD;&#xA;        	edit() {&#xD;&#xA;                message: 'Done'&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;    })

@@ -1,0 +1,1 @@
+    UserProfiles = [&#xD;&#xA;    		{&#xD;&#xA;    			userProfileID: 1,&#xD;&#xA;    			firstName: 'Austin',&#xD;&#xA;    			lastName: 'Hunter',&#xD;&#xA;    			email: 'ahun.....com',&#xD;&#xA;    			token: '',&#xD;&#xA;    			platform: '',&#xD;&#xA;    			password: 'incorrect',&#xD;&#xA;    			companyProfileID: 1,&#xD;&#xA;    			authentication: '',&#xD;&#xA;    			UserTopics: [

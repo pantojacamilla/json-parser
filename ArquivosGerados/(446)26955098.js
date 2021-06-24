@@ -1,0 +1,1 @@
+    <html>&#xD;&#xA;    <head>&#xD;&#xA;      <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1">&#xD;&#xA;    </head>&#xD;&#xA;    <body>&#xD;&#xA;      <div="gameArea">&#xD;&#xA;        <canvas id="myCanvas"></canvas>&#xD;&#xA;      </div>&#xD;&#xA;    </body>&#xD;&#xA;    </html>

@@ -1,0 +1,1 @@
+    $(document).ready( function(){&#xD;&#xA;		$('section a').each(function(){ &#xD;&#xA;   &#xD;&#xA;            var lazyWrap = $(this);&#xD;&#xA;			var img = $(lazyWrap, this);&#xD;&#xA;   			lazyWrap.width(img.width());&#xD;&#xA;   			lazyWrap.height(img.height());&#xD;&#xA;   			&#xD;&#xA;   			console.log(lazyWrap.height());&#xD;&#xA;		});&#xD;&#xA;    });

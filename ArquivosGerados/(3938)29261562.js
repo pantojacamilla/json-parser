@@ -1,0 +1,1 @@
+    function fun1(int n)&#xD;&#xA;    {&#xD;&#xA;      int s = 0;&#xD;&#xA;      for(int i = 0; s < n; i++)&#xD;&#xA;      {&#xD;&#xA;        s += i;&#xD;&#xA;        for(var j = s; j < n; j++)&#xD;&#xA;          {&#xD;&#xA;            console.log(j);&#xD;&#xA;          }&#xD;&#xA;      }&#xD;&#xA;      return s;&#xD;&#xA;    }

@@ -1,0 +1,1 @@
+        var geojson = L.geoJson.ajax('http://www.iotwf.com/deployment_map/json', {&#xD;&#xA;        pointToLayer: function (feature, latlng) {&#xD;&#xA;        convertLatLng(latlng);&#xD;&#xA;        ...&#xD;&#xA;        },&#xD;&#xA;        onEachFeature: function(feature, layer) {&#xD;&#xA;     &#xD;&#xA;        ...&#xD;&#xA;        }&#xD;&#xA;        });

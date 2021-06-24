@@ -1,0 +1,1 @@
+    function postData()&#xD;&#xA;    {&#xD;&#xA;    	data = JSON.stringify(dataObject);&#xD;&#xA;    	alert(data);&#xD;&#xA;    	 $.post("submit_order.php",&#xD;&#xA;        data,&#xD;&#xA;        function(status){&#xD;&#xA;            alert(status)&#xD;&#xA;    		window.location.href = "submit_order.php";&#xD;&#xA;        });&#xD;&#xA;    }

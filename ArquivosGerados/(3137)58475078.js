@@ -1,0 +1,1 @@
+    import React from 'react'&#xD;&#xA;    import './ListObject.css';&#xD;&#xA;    const listObject = (props: any) => {&#xD;&#xA;        return (&#xD;&#xA;            <div className="ListObject">&#xD;&#xA;                <p>i Am {props.name}</p>&#xD;&#xA;            </div>&#xD;&#xA;        )&#xD;&#xA;    };&#xD;&#xA;    export default listObject;

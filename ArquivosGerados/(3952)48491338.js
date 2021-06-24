@@ -1,0 +1,1 @@
+    function f() {&#xD;&#xA;        f.count++;&#xD;&#xA;        return f;&#xD;&#xA;    };&#xD;&#xA;    f.count=0;&#xD;&#xA;    f.toString = function(){&#xD;&#xA;    	console.log(f.count);&#xD;&#xA;    	return f.count;&#xD;&#xA;    };&#xD;&#xA;    console.log(f() == 1); // true&#xD;&#xA;    console.log(f()() == 3); //3&#xD;&#xA;    console.log(f()()() == 6); //6

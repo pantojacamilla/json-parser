@@ -1,0 +1,1 @@
+    <html>&#xD;&#xA;    <head>&#xD;&#xA;      <script src="./script.js" async></script>&#xD;&#xA;    </head>&#xD;&#xA;    <body>&#xD;&#xA;      <div class='btn' id='paddleBtn'>&#xD;&#xA;        <div class='labelT'>Paddle</div>&#xD;&#xA;        <div class='cooldown' id='paddleC'></div>&#xD;&#xA;      </div>&#xD;&#xA;    </body>&#xD;&#xA;    </html>

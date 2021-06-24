@@ -1,0 +1,1 @@
+    button{&#xD;&#xA;      width: 30px;&#xD;&#xA;      height: 30px;&#xD;&#xA;      margin: 5px 0;&#xD;&#xA;    }&#xD;&#xA;    #result{&#xD;&#xA;      width: 130px;&#xD;&#xA;      height: 30px;&#xD;&#xA;      display: block;&#xD;&#xA;    }

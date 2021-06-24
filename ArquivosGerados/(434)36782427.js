@@ -1,0 +1,1 @@
+    <body>&#xD;&#xA;      <div id="thingtohide" style="display: none;">COOL TEXT TO DISPLAY</div>&#xD;&#xA;      <tbody>&#xD;&#xA;        <tr class="cart-item-row">&#xD;&#xA;          <td class="sku nobr">&#xD;&#xA;            <span class="td-title">SKU:</span>&#xD;&#xA;            4523&#xD;&#xA;          </td>&#xD;&#xA;        </tr>&#xD;&#xA;      </tbody>

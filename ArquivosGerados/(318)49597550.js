@@ -1,0 +1,1 @@
+    array1=[0]&#xD;&#xA;            &#xD;&#xA;    if(array1 === 0 || array1.length <= 0){&#xD;&#xA;        console.log(true)&#xD;&#xA;    } else {&#xD;&#xA;        console.log(false)&#xD;&#xA;    }&#xD;&#xA;            &#xD;&#xA;    if(array1 === 0){&#xD;&#xA;        console.log(true)&#xD;&#xA;    } else {&#xD;&#xA;        console.log(false)&#xD;&#xA;    }

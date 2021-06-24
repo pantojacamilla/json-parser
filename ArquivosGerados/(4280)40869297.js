@@ -1,0 +1,1 @@
+    .modal-window {&#xD;&#xA;	position: absolute;&#xD;&#xA;	z-index: 10000;&#xD;&#xA;	background: #fff;&#xD;&#xA;	padding: 1.5em;&#xD;&#xA;	clear: both;&#xD;&#xA;	overflow: hidden;&#xD;&#xA;    }&#xD;&#xA;    .modal-content {&#xD;&#xA;	border: 0;&#xD;&#xA;    }&#xD;&#xA;    #share span {&#xD;&#xA;	cursor: pointer;&#xD;&#xA;    }

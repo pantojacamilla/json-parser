@@ -1,0 +1,1 @@
+Store;Day;In stock?;Out of stock?&#xD;&#xA;Store A;01-01-19;1;0&#xD;&#xA;Store A;02-01-19;0;1&#xD;&#xA;Store A;03-01-19;0;1&#xD;&#xA;Store A;04-01-19;1;0&#xD;&#xA;Store A;05-01-19;1;0&#xD;&#xA;Store A;06-01-19;0;1&#xD;&#xA;Store A;07-01-19;0;1&#xD;&#xA;Store A;…;0;1&#xD;&#xA;Store B;01-01-19;1;0&#xD;&#xA;Store B;02-01-19;0;1&#xD;&#xA;Store B;…;0;1

@@ -1,0 +1,1 @@
+    .answer-comment{&#xD;&#xA;        width:600px;&#xD;&#xA;             float: left;&#xD;&#xA;    }&#xD;&#xA;    .answer-textArea{&#xD;&#xA;        width: 500px;&#xD;&#xA;        height: 180px;     &#xD;&#xA;    }&#xD;&#xA;    .answer-commentRateBox{&#xD;&#xA;       display:none;&#xD;&#xA;       overflow: hidden;   &#xD;&#xA;    }

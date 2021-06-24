@@ -1,0 +1,1 @@
+    $(document).ready(function() {&#xD;&#xA;		 var imwidth = $('#jspp').width() ; &#xD;&#xA;		 var imheight = $('#jspp').height() ; &#xD;&#xA;		 &#xD;&#xA;		 if (imwidth < imheight) {&#xD;&#xA;			 $('#jspp').width(100);&#xD;&#xA;		 } else {&#xD;&#xA;			 $('#jspp').height(100);&#xD;&#xA;		 }	 &#xD;&#xA;	 })

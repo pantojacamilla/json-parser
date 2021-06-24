@@ -1,0 +1,1 @@
+    var x = 10;&#xD;&#xA;    function f () {&#xD;&#xA;      console.log(x); //logs 10&#xD;&#xA;      x = x + 1;&#xD;&#xA;      console.log(x); //logs 11&#xD;&#xA;      return x;&#xD;&#xA;    }&#xD;&#xA;    var obj = {&#xD;&#xA;      func: f,&#xD;&#xA;      g: f(),&#xD;&#xA;    };&#xD;&#xA;    console.log(x); // logs 11

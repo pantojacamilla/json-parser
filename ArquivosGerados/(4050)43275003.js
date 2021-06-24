@@ -1,0 +1,1 @@
+    img {&#xD;&#xA;    position : absolute;&#xD;&#xA;    left: 0;&#xD;&#xA;        top: 0;&#xD;&#xA;    }&#xD;&#xA;    .goal{&#xD;&#xA;        width: 10px;&#xD;&#xA;        height: 10px;&#xD;&#xA;        background-color: green;&#xD;&#xA;        float: right;&#xD;&#xA;        }

@@ -1,0 +1,1 @@
+    .window {&#xD;&#xA;      border: 1px solid grey;&#xD;&#xA;      margin: 10px;&#xD;&#xA;      padding: 10px;&#xD;&#xA;      display: none;&#xD;&#xA;      width: 250px;&#xD;&#xA;    }&#xD;&#xA;    .closeX {&#xD;&#xA;      position: relative;&#xD;&#xA;      top: 0px;&#xD;&#xA;      left: 230px;&#xD;&#xA;      cursor: pointer;&#xD;&#xA;    }

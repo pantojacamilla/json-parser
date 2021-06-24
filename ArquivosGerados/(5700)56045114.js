@@ -1,0 +1,1 @@
+    #flexContainer {&#xD;&#xA;      display: flex;&#xD;&#xA;    }&#xD;&#xA;    #flexItem1 {&#xD;&#xA;      background-color: lightblue;&#xD;&#xA;      flex: 30%;&#xD;&#xA;    }&#xD;&#xA;    #flexItem2 {&#xD;&#xA;      flex: 70%;&#xD;&#xA;      background-color: lightgreen;&#xD;&#xA;    }

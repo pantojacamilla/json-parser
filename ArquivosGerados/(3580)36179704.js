@@ -1,0 +1,1 @@
+    var Title = React.createClass({&#xD;&#xA;      displayName: "Title",&#xD;&#xA;      getDefaultProps: function () {&#xD;&#xA;        return {&#xD;&#xA;          className: ""&#xD;&#xA;        }&#xD;&#xA;      },&#xD;&#xA;      render: function () {&#xD;&#xA;        return <h1 className={this.props.className}>{this.state.content}</h1>&#xD;&#xA;      }&#xD;&#xA;    });

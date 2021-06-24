@@ -1,0 +1,1 @@
+    #option-box {&#xD;&#xA;        display: none;&#xD;&#xA;    }&#xD;&#xA;    #option-box span {&#xD;&#xA;        background:green;&#xD;&#xA;        color: white;&#xD;&#xA;        display: block;&#xD;&#xA;        cursor: pointer;&#xD;&#xA;        padding:5px;&#xD;&#xA;        margin: 10px 0;&#xD;&#xA;        text-align:center;&#xD;&#xA;        max-width: 100px;&#xD;&#xA;    }

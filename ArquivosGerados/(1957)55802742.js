@@ -1,0 +1,1 @@
+    <!-- /public/index.html -->&#xD;&#xA;    <html>&#xD;&#xA;        <head>&#xD;&#xA;            <title>demo</title> &#xD;&#xA;            <script src="/components/foo.js" type="module"></script>&#xD;&#xA;        </head>   &#xD;&#xA;        <body>&#xD;&#xA;            <h1>hello</h1>&#xD;&#xA;        </body>&#xD;&#xA;    </html>  

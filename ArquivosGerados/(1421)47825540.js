@@ -1,0 +1,1 @@
+    import React, { Component } from 'react';&#xD;&#xA;    import { View, Text } from 'react-native';&#xD;&#xA;    export default class App extends Component {&#xD;&#xA;      render() {&#xD;&#xA;        return (&#xD;&#xA;        	<View>&#xD;&#xA;          		<Text>Hello</Text>&#xD;&#xA;          	</View>&#xD;&#xA;        );&#xD;&#xA;      }&#xD;&#xA;    }

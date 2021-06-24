@@ -1,0 +1,1 @@
+    <ion-header>&#xD;&#xA;      <ion-navbar>&#xD;&#xA;        <ion-title>&#xD;&#xA;          Modal Test&#xD;&#xA;        </ion-title>&#xD;&#xA;      </ion-navbar>&#xD;&#xA;    </ion-header>&#xD;&#xA;    <ion-content padding>&#xD;&#xA;      <button ion-button (click)="openModal()">Open Modal</button>&#xD;&#xA;    </ion-content>

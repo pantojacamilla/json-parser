@@ -1,0 +1,1 @@
+    $(document).ready(function() {&#xD;&#xA;      $("button").click(function() {&#xD;&#xA;        var time = 5;&#xD;&#xA;        setInterval(function() {&#xD;&#xA;          time--;&#xD;&#xA;          $('#time').html(time);&#xD;&#xA;          if (time === 0) {&#xD;&#xA;            clearInterval();&#xD;&#xA;          }&#xD;&#xA;        }, 1000);&#xD;&#xA;      });&#xD;&#xA;    });

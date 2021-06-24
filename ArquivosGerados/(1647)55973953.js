@@ -1,0 +1,1 @@
+    .my-child.child1 {&#xD;&#xA;      background: red;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .my-child.child2 {&#xD;&#xA;      background: green;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .my-child.child3 {&#xD;&#xA;      background: blue;&#xD;&#xA;    } 

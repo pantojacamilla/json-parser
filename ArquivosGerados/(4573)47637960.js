@@ -1,0 +1,1 @@
+    var array=[&#xD;&#xA;     '100000011022', &#xD;&#xA;     '122339311022', &#xD;&#xA;     '988881233221',&#xD;&#xA;     '000130009999'&#xD;&#xA;    ]&#xD;&#xA;    var result = array.join('\n').replace(/.{4,10}[^.]/g, function(a) {&#xD;&#xA;      return a.replace(/./g,'0')&#xD;&#xA;    })&#xD;&#xA;    console.log(result)

@@ -1,0 +1,1 @@
+    $(document).ready(function(){&#xD;&#xA;      var against = 'human';&#xD;&#xA;      var board = ['-','-','-',&#xD;&#xA;                   '-','-','-',&#xD;&#xA;                   '-','-','-'];&#xD;&#xA;      var turn = 'X';&#xD;&#xA;      &#xD;&#xA;      $('.xo-btns').click(function(){&#xD;&#xA;        $(this).text(turn);&#xD;&#xA;      });&#xD;&#xA;      &#xD;&#xA;    });

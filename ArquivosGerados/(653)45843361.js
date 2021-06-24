@@ -1,0 +1,1 @@
+    import { Globals } from './Globals';&#xD;&#xA;    @Component({&#xD;&#xA;    	selector    : 'app-root',&#xD;&#xA;      templateUrl : './app.component.html',&#xD;&#xA;      styleUrls   : ['./app.component.scss']&#xD;&#xA;    })&#xD;&#xA;    export class AppComponent {&#xD;&#xA;      constructor(private globals: Globals){&#xD;&#xA;      }&#xD;&#xA;    }

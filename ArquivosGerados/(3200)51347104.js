@@ -1,0 +1,1 @@
+    {&#xD;&#xA;    "status": true,&#xD;&#xA;    "message": "good",&#xD;&#xA;    "data": {&#xD;&#xA;        "min": {&#xD;&#xA;            "sin": "text",&#xD;&#xA;            "en": " text",&#xD;&#xA;            "ta": "text",&#xD;&#xA;            "ownere": "  text"&#xD;&#xA;        }&#xD;&#xA;       }&#xD;&#xA;     }

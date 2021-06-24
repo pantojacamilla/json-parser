@@ -1,0 +1,1 @@
+    .rotate-element {&#xD;&#xA;      @include transform (rotate(180deg));&#xD;&#xA;    }&#xD;&#xA;    .fa-angle-down {&#xD;&#xA;      &.rotate-icon {&#xD;&#xA;        position: absolute;&#xD;&#xA;        right: 0;&#xD;&#xA;        top: 17px;&#xD;&#xA;        @include transition (all 150ms ease-in 0s);&#xD;&#xA;      }&#xD;&#xA;    }

@@ -1,0 +1,1 @@
+    .test {&#xD;&#xA;      width: 100px;&#xD;&#xA;      height: 100px;&#xD;&#xA;    }&#xD;&#xA;    .test1 {&#xD;&#xA;      color: blue&#xD;&#xA;    }&#xD;&#xA;    .test2 {&#xD;&#xA;      background: gray;&#xD;&#xA;    }&#xD;&#xA;    .test3 {&#xD;&#xA;      border: 1px solid gray;&#xD;&#xA;    }

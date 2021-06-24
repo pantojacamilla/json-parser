@@ -1,0 +1,1 @@
+    // Off-canvas menu open/close&#xD;&#xA;    $(function() {&#xD;&#xA;      $('.nav-main > li > a').click(function(e) {&#xD;&#xA;        if( $(this).siblings().size() > 0) ) {&#xD;&#xA;          e.preventDefault(); // disable link&#xD;&#xA;        } &#xD;&#xA;       &#xD;&#xA;        &#xD;&#xA;      });&#xD;&#xA;    });

@@ -1,0 +1,1 @@
+    <section class="menubar">&#xD;&#xA;      <div class="menuicon" onclick="classAdd()">&#xD;&#xA;        <span></span>&#xD;&#xA;        <span></span>&#xD;&#xA;        <span></span>&#xD;&#xA;      </div>&#xD;&#xA;    </section>&#xD;&#xA;    <section class="home">&#xD;&#xA;      <button class="hbutton" onclick="classAdd()"></button>&#xD;&#xA;    </section>

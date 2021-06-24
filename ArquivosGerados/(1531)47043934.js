@@ -1,0 +1,1 @@
+    const reverse = function(str) {&#xD;&#xA;	    const looper = function(str, index) {&#xD;&#xA;		    if(index < 0) {&#xD;&#xA;			    return '';&#xD;&#xA;		    }&#xD;&#xA;		    return str[index] + looper(str, index - 1);&#xD;&#xA;	    };&#xD;&#xA;	    looper(str, str.length - 1);&#xD;&#xA;    };&#xD;&#xA;    console.log(reverse('Hello World!'));

@@ -1,0 +1,1 @@
+    var title = 'Some title';&#xD;&#xA;    var date = [];&#xD;&#xA;    var dateKey = 'revision';&#xD;&#xA;    var dateValue = '2010-09-20';&#xD;&#xA;    var obj = {};&#xD;&#xA;    obj['dateKey'] = dateKey;&#xD;&#xA;    obj['dateValue'] = dateValue;&#xD;&#xA;    date.push(obj);&#xD;&#xA;    var inObj = {&#xD;&#xA;    "title": title,&#xD;&#xA;    "date": date&#xD;&#xA;    };

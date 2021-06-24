@@ -1,0 +1,1 @@
+    $("popoverhide").click(function() {&#xD;&#xA;        var f = false;&#xD;&#xA;        if($("popoverlink").next('div.popover:visible')) {&#xD;&#xA;            f = true;&#xD;&#xA;            $("popoverlink").popover("hide");&#xD;&#xA;        }&#xD;&#xA;        if(f) {&#xD;&#xA;            $("popoverlink").click();&#xD;&#xA;        }&#xD;&#xA;    })

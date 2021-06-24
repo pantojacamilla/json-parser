@@ -1,0 +1,1 @@
+    new Vue({&#xD;&#xA;      el: "#app",&#xD;&#xA;      methods: {&#xD;&#xA;        perc: w => w / 100&#xD;&#xA;      },&#xD;&#xA;      computed: {&#xD;&#xA;        data: {&#xD;&#xA;          y: `hello ${this.perc(20)}`&#xD;&#xA;        }&#xD;&#xA;      },&#xD;&#xA;      mounted() {&#xD;&#xA;        console.log(this.data)&#xD;&#xA;      }&#xD;&#xA;    })

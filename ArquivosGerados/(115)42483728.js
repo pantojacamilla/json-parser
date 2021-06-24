@@ -1,0 +1,1 @@
+    ul li {&#xD;&#xA;      float: left;&#xD;&#xA;      display: inline-block;&#xD;&#xA;      list-style: none;&#xD;&#xA;    }&#xD;&#xA;    ul li a {&#xD;&#xA;      color: #000;&#xD;&#xA;      text-decoration: none;&#xD;&#xA;      padding: 15px;&#xD;&#xA;      display: block;&#xD;&#xA;    }&#xD;&#xA;    ul li.active a {&#xD;&#xA;      color: red;&#xD;&#xA;    }

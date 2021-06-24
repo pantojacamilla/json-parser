@@ -1,0 +1,1 @@
+    *{cursor:none;}&#xD;&#xA;    #cursor {&#xD;&#xA;      position:fixed;&#xD;&#xA;      z-index:999999;&#xD;&#xA;      width:12px;&#xD;&#xA;      height:19px;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .trail {&#xD;&#xA;      z-index:1;&#xD;&#xA;      position:fixed;&#xD;&#xA;    }

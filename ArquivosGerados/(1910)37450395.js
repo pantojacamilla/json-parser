@@ -1,0 +1,1 @@
+    @keyframes inseq { &#xD;&#xA;    	100% { opacity: 1; }&#xD;&#xA;    }&#xD;&#xA;    .d1, .d2, .d3 {&#xD;&#xA;      opacity: 0;&#xD;&#xA;    	transition: all 2s;&#xD;&#xA;      animation: inseq 3s ease 1s forwards;&#xD;&#xA;    }&#xD;&#xA;    .d2 {&#xD;&#xA;      animation-delay: 1.3s&#xD;&#xA;    }&#xD;&#xA;    .d3 {&#xD;&#xA;      animation-delay: 1.6s&#xD;&#xA;    }

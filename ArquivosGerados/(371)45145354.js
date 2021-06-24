@@ -1,0 +1,1 @@
+    			$(window).scroll(function() &#xD;&#xA;			{&#xD;&#xA;				if ($("#navbar_scroll").offset().top > 56) &#xD;&#xA;				{&#xD;&#xA;					$("#navbar_scroll").addClass("navbar_style_2");&#xD;&#xA;				} &#xD;&#xA;				else &#xD;&#xA;				{&#xD;&#xA;					$("#navbar_scroll").removeClass("navbar_style_2");&#xD;&#xA;				}&#xD;&#xA;			});

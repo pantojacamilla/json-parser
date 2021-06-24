@@ -1,0 +1,1 @@
+    YUI().use(&#xD;&#xA;    'aui-datepicker',&#xD;&#xA;    function(Y) {&#xD;&#xA;    new Y.DatePicker(&#xD;&#xA;    {&#xD;&#xA;    trigger: 'textarea',&#xD;&#xA;    mask: '%m/%d/%y',&#xD;&#xA;    calendar: {&#xD;&#xA;    selectionMode: 'multiple'&#xD;&#xA;    },&#xD;&#xA;    popover: {&#xD;&#xA;    zIndex: 1&#xD;&#xA;    },&#xD;&#xA;    panes: 1&#xD;&#xA;    }&#xD;&#xA;    );});

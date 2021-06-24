@@ -1,0 +1,1 @@
+    function A(type = 'default_type', data,B = function(){}) {&#xD;&#xA;      B(data);&#xD;&#xA;    }&#xD;&#xA;    function Parent() {&#xD;&#xA;      var data = "hello"&#xD;&#xA;      &#xD;&#xA;      A('my_type', data => {&#xD;&#xA;        console.log(data);&#xD;&#xA;      });&#xD;&#xA;    }&#xD;&#xA;    Parent();

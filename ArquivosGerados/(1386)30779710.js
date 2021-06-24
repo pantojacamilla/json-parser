@@ -1,0 +1,1 @@
+    .align-table {&#xD;&#xA;        display: table;&#xD;&#xA;        width: 100%;&#xD;&#xA;        table-layout: fixed;&#xD;&#xA;    }&#xD;&#xA;    .t-align {&#xD;&#xA;        display: table-cell;&#xD;&#xA;        vertical-align: top;&#xD;&#xA;        width: 100%;&#xD;&#xA;    }&#xD;&#xA;    ul, li {&#xD;&#xA;        list-style:none;&#xD;&#xA;    }

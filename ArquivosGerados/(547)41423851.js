@@ -1,0 +1,1 @@
+    #submit {&#xD;&#xA;	color: red;&#xD;&#xA;	background-color:brown;&#xD;&#xA;    }&#xD;&#xA;    body {&#xD;&#xA;	/*You can use any kind of background here.*/&#xD;&#xA;	background: #6b92b9;&#xD;&#xA;    }&#xD;&#xA;    canvas {&#xD;&#xA;	position: absolute;&#xD;&#xA;	display: block;&#xD;&#xA;    }

@@ -1,0 +1,1 @@
+    {&#xD;&#xA;       "textFields":[&#xD;&#xA;          {&#xD;&#xA;             "name":"text",&#xD;&#xA;             "xPath":"/test/text"&#xD;&#xA;          },&#xD;&#xA;          {&#xD;&#xA;             "name":"text2",&#xD;&#xA;             "xPath":"/test/text2"&#xD;&#xA;          }&#xD;&#xA;       ]&#xD;&#xA;    }

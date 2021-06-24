@@ -1,0 +1,1 @@
+    var add01in = "#fff";&#xD;&#xA;    var add01out = #000";&#xD;&#xA;    function over(id) {&#xD;&#xA;      var dupe = id.att('id')&#xD;&#xA;      id.style.backgroundColor = (dupe + 'in');&#xD;&#xA;    }&#xD;&#xA;    function out(id) {&#xD;&#xA;      var dupe = id.att('id');&#xD;&#xA;      id.style.backgroundColor = (dupe + 'out');&#xD;&#xA;    }

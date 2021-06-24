@@ -1,0 +1,1 @@
+    #divContainer {&#xD;&#xA;      display: flex;&#xD;&#xA;      align-items: center;&#xD;&#xA;      float: right;&#xD;&#xA;    }&#xD;&#xA;    #characters {&#xD;&#xA;      font-weight: 700;&#xD;&#xA;      color: rgb(0,0,0);&#xD;&#xA;      font-size: 40px;&#xD;&#xA;      padding-top: 2px;&#xD;&#xA;      white-space: nowrap;&#xD;&#xA;    }

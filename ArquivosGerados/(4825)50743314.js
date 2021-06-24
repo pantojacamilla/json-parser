@@ -1,0 +1,1 @@
+    .container {&#xD;&#xA;      display: grid;&#xD;&#xA;      grid-template-columns: 1fr 2fr;&#xD;&#xA;      grid-gap: 20px;&#xD;&#xA;    }&#xD;&#xA;    .nav {&#xD;&#xA;      background: lightgrey;&#xD;&#xA;      color: #FFF;&#xD;&#xA;    }&#xD;&#xA;    .nav ul {&#xD;&#xA;      list-style: none;&#xD;&#xA;    }

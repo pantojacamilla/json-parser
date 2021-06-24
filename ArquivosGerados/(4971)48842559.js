@@ -1,0 +1,1 @@
+    function sumArray(array) {&#xD;&#xA;    var sum;&#xD;&#xA;    array.sort(function(a, b){return a-b});&#xD;&#xA;    for(var i=1;i<array.length-2;i++) {&#xD;&#xA;        return sum+=array[i];&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    sumArray([ 6, 2, 1, 8, 10 ]);

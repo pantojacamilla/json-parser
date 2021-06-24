@@ -1,0 +1,1 @@
+    import styled from 'react-emotion';&#xD;&#xA;    const BoxContainer = styled('div')`&#xD;&#xA;      display: flex;&#xD;&#xA;      flex-direction: ${p => p.direction};&#xD;&#xA;    `;&#xD;&#xA;    function Box(props) {&#xD;&#xA;      return <BoxContainer {...props}/>&#xD;&#xA;    }&#xD;&#xA;    Box.defaultProps = {&#xD;&#xA;      direction: 'column'&#xD;&#xA;    }

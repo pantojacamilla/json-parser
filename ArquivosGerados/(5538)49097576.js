@@ -1,0 +1,1 @@
+    var a = [1, 2, 3, 4, 5, 6];&#xD;&#xA;    var b = a.slice(0);&#xD;&#xA;    console.log('before b = ', b); // b = [1, 2, 3, 4, 5, 6]&#xD;&#xA;    a.forEach(function (e) {&#xD;&#xA;        if (e > 0) {&#xD;&#xA;            b.splice(a.indexOf(e), 1);&#xD;&#xA;        }&#xD;&#xA;    });&#xD;&#xA;    console.log('after b = ', b); // b = [2, 4, 6]&#xD;&#xA;    // but I expect b = []

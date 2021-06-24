@@ -1,0 +1,1 @@
+    $(document).ready(function() {&#xD;&#xA;      $(':radio').change(function(e) {&#xD;&#xA;        //clear the div&#xD;&#xA;        $('#dispPicks').html('');&#xD;&#xA;        //update the div&#xD;&#xA;        $(':radio:checked').each(function(ind, ele) {&#xD;&#xA;          $('#dispPicks').append($(ele).val() + '<br/>');&#xD;&#xA;        });&#xD;&#xA;      });&#xD;&#xA;    });

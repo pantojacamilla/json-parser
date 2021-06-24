@@ -1,0 +1,1 @@
+    $("#clicker").click(function(){&#xD;&#xA;    	$("#fading_dolar").css("display","block");&#xD;&#xA;    	$("#fading_dolar").animate({&#xD;&#xA;    		bottom: "120px",&#xD;&#xA;    		opacity: 0&#xD;&#xA;    	}, {duration:1000, queue: false});&#xD;&#xA;    	$("#fading_dolar").css({&#xD;&#xA;    		"opacity": "1",&#xD;&#xA;    		"bottom:": "60px"&#xD;&#xA;    	});&#xD;&#xA;    });

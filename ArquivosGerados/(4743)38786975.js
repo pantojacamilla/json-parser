@@ -1,0 +1,1 @@
+    <html>&#xD;&#xA;    <head>&#xD;&#xA;    	 <title>Linkedin web scrapper</title>&#xD;&#xA;        <script src="popup.js"></script>&#xD;&#xA;    	&#xD;&#xA;    </head>&#xD;&#xA;    <body>&#xD;&#xA;    <h1>Linkedin web scrapper</h1>&#xD;&#xA;        <button id="checkPage">Add Profile</button>&#xD;&#xA;    	&#xD;&#xA;    </body>&#xD;&#xA;    </html>

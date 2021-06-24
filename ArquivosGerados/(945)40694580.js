@@ -1,0 +1,1 @@
+    #ring {&#xD;&#xA;    	background-size: contain;&#xD;&#xA;    	width: 50px;&#xD;&#xA;    	position: relative;&#xD;&#xA;    	top: 5px;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .circle1 {&#xD;&#xA;        width: 80px;&#xD;&#xA;        height: 80px;&#xD;&#xA;        border-radius: 50%;&#xD;&#xA;    }&#xD;&#xA;    

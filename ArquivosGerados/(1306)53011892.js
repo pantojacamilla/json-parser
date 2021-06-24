@@ -1,0 +1,1 @@
+    @ECHO OFF&#xD;&#xA;    set folder1="C:\Temp1\"&#xD;&#xA;    set folder2="C:\Temp2\"&#xD;&#xA;    IF EXIST %folder1% IF EXIST %folder2% goto bothfound&#xD;&#xA;    goto notfound&#xD;&#xA;    :bothfound&#xD;&#xA;    echo Both folders exist.&#xD;&#xA;    :notfound&#xD;&#xA;    echo either one or both folder not exist.&#xD;&#xA;    echo Done.&#xD;&#xA;    pause&#xD;&#xA; 

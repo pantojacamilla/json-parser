@@ -1,0 +1,1 @@
+     #wicked {&#xD;&#xA;      background-color: #ABCDEF;&#xD;&#xA;      font-size: 20px;&#xD;&#xA;      border-radius: 20px;&#xD;&#xA;      border-style: none;&#xD;&#xA;      padding: 25px;&#xD;&#xA;      }&#xD;&#xA;      .blueBack {&#xD;&#xA;      border-color: #000;&#xD;&#xA;      border-style: solid;&#xD;&#xA;     }

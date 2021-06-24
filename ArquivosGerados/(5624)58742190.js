@@ -1,0 +1,1 @@
+    import axios from 'axios';&#xD;&#xA;    const API_URL = 'http://localhost:3000/api/v1/';&#xD;&#xA;    const plainAxiosInstance = axios.create({&#xD;&#xA;      baseURL: API_URL,&#xD;&#xA;      withCredentials: true,&#xD;&#xA;      headers: {&#xD;&#xA;        'Content-Type': 'application/json'&#xD;&#xA;      }&#xD;&#xA;    });&#xD;&#xA;    export { plainAxiosInstance };

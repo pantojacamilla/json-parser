@@ -1,0 +1,1 @@
+    <?php&#xD;&#xA;    $link=mysqli_connect("localhost","root","password");&#xD;&#xA;    mysqli_select_db($link,"autorefresh");&#xD;&#xA;    $res=mysqli_query($link,"select * from table1");&#xD;&#xA;    while($row=mysqli_fetch_array($res))&#xD;&#xA;    {&#xD;&#xA;    	echo $row["name"]." ".$row["city"];&#xD;&#xA;    	echo "<br>";&#xD;&#xA;    }&#xD;&#xA;    ?>

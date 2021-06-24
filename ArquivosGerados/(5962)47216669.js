@@ -1,0 +1,1 @@
+    function change() &#xD;&#xA;    {&#xD;&#xA;      var change = document.getElementById("check");&#xD;&#xA;      if (change.value == "1") &#xD;&#xA;      {&#xD;&#xA;        document.test.savereport = "True";&#xD;&#xA;        document.test.submit();&#xD;&#xA;      } &#xD;&#xA;      else &#xD;&#xA;      {&#xD;&#xA;        change.value = "false";&#xD;&#xA;      }&#xD;&#xA;    }

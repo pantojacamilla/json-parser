@@ -1,0 +1,1 @@
+    var myObject = {&#xD;&#xA;      price: 20.99,&#xD;&#xA;      get_price: function() {&#xD;&#xA;        return this.price;&#xD;&#xA;      }&#xD;&#xA;    };&#xD;&#xA;    var customObject = Object.create(myObject);&#xD;&#xA;    customObject.price = 19.99;&#xD;&#xA;    delete customObject.price;&#xD;&#xA;    console.log(customObject.get_price()); //returns 20.99

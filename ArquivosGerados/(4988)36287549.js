@@ -1,0 +1,1 @@
+    <script>&#xD;&#xA;        function imgWindow() &#xD;&#xA;      {&#xD;&#xA;    	var s = window.getSelection( ) &#xD;&#xA;    	var r = document.createRange();&#xD;&#xA;    	r.selectNode(document.images[a,b,c]);&#xD;&#xA;    	s.addRange(r)&#xD;&#xA;    	&#xD;&#xA;       }&#xD;&#xA;    </script>

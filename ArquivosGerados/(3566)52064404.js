@@ -1,0 +1,1 @@
+    <section class="canvas">&#xD;&#xA;          <canvas id="first-canvas" style="position:relative; left: 0px; top: &#xD;&#xA;    0px;"></canvas>&#xD;&#xA;      <a href="#">&#xD;&#xA;  &#xD;&#xA;    <div id="btn-container">&#xD;&#xA;      <div id="scroll-btn">&#xD;&#xA;        <h3>View My Page></h3></div></a>&#xD;&#xA;      </div>&#xD;&#xA;    <section>

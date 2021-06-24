@@ -1,0 +1,1 @@
+    $("#follow-user1").click(function(){&#xD;&#xA;      alert(1);&#xD;&#xA;    });&#xD;&#xA;    $("#follow-user2").click(function(){&#xD;&#xA;      alert(2);&#xD;&#xA;    });&#xD;&#xA;    $("#follow-user3").click(function(){&#xD;&#xA;      alert(3);&#xD;&#xA;    });&#xD;&#xA;    $("#follow-user4").click(function(){&#xD;&#xA;      alert(4);&#xD;&#xA;    });

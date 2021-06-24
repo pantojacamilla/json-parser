@@ -1,0 +1,1 @@
+      var data = {&#xD;&#xA;      timer: {&#xD;&#xA;        	"num": "0.0",&#xD;&#xA;        	"perfection": "0"&#xD;&#xA;      	}&#xD;&#xA;      }&#xD;&#xA;      var info = [];&#xD;&#xA;      var maxValue=101;&#xD;&#xA;    &#xD;&#xA;      for(var i = 0; i < maxValue; i++) {&#xD;&#xA;         data['timer']['perfection'] = i; &#xD;&#xA;      }

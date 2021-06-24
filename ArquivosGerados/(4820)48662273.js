@@ -1,0 +1,1 @@
+     SaveVersionMainScreen() {&#xD;&#xA;            let element = this.commonValidation(true);&#xD;&#xA;            if (element) {            &#xD;&#xA;                return false;&#xD;&#xA;            }&#xD;&#xA;            else{&#xD;&#xA;              return true;&#xD;&#xA;            }&#xD;&#xA;          return true;&#xD;&#xA;         }

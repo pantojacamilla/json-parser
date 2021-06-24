@@ -1,0 +1,1 @@
+    .container{&#xD;&#xA;        border:1px solid green;&#xD;&#xA;        width:300px;&#xD;&#xA;        height:150px;&#xD;&#xA;        position:relative;&#xD;&#xA;    }&#xD;&#xA;    .imageHolder{&#xD;&#xA;        position:absolute;&#xD;&#xA;        left:0;&#xD;&#xA;        top:0;&#xD;&#xA;    }&#xD;&#xA;    .textHolder {&#xD;&#xA;        position:absolute;&#xD;&#xA;    }

@@ -1,0 +1,1 @@
+    body {&#xD;&#xA;      background:#000;&#xD;&#xA;      height:100%;&#xD;&#xA;      width:100%;&#xD;&#xA;    }&#xD;&#xA;    .yellow {&#xD;&#xA;      --bottom-divider-color:yellow;&#xD;&#xA;    }&#xD;&#xA;    .red {&#xD;&#xA;      --bottom-divider-color:red;&#xD;&#xA;    }&#xD;&#xA;    .blue {&#xD;&#xA;      --bottom-divider-color:red;&#xD;&#xA;    }

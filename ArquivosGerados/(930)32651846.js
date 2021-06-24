@@ -1,0 +1,1 @@
+    <!DOCTYPE html>&#xD;&#xA;    <html lang="en">&#xD;&#xA;    <head>&#xD;&#xA;    	<meta charset="UTF-8">&#xD;&#xA;    	<title>Index</title>&#xD;&#xA;    	&#xD;&#xA;    </head>&#xD;&#xA;    <body>&#xD;&#xA;    	<h1>{{title}}</h1>&#xD;&#xA;    </body>&#xD;&#xA;    </html>

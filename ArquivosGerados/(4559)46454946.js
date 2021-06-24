@@ -1,0 +1,1 @@
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>&#xD;&#xA;    <p id="parent">&#xD;&#xA;      <i>&#xD;&#xA;         <u>&#xD;&#xA;          <strike>&#xD;&#xA;            <b>text</b>&#xD;&#xA;          </strike>&#xD;&#xA;         </u>&#xD;&#xA;        </i>&#xD;&#xA;    </p>

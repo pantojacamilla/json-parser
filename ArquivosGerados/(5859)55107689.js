@@ -1,0 +1,1 @@
+    oneFunction("hello")&#xD;&#xA;    &#xD;&#xA;    function oneFunction(info) {&#xD;&#xA;        (async function () {&#xD;&#xA;            try {&#xD;&#xA;                const getinfo = await somefunction(info)&#xD;&#xA;            } catch (e) {&#xD;&#xA;                console.error(e);&#xD;&#xA;            }&#xD;&#xA;        })()&#xD;&#xA;    }

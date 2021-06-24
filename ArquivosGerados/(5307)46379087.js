@@ -1,0 +1,1 @@
+    {&#xD;&#xA;      businessOpenAccount: {&#xD;&#xA;        'accountSettings1.page.js': {},&#xD;&#xA;        'accountSettings2.page.js': {}&#xD;&#xA;      },&#xD;&#xA;      mainTest: {&#xD;&#xA;        test: {&#xD;&#xA;          'test1.page.js': {},&#xD;&#xA;          'test2.page.js': {}&#xD;&#xA;        }&#xD;&#xA;      }&#xD;&#xA;    }

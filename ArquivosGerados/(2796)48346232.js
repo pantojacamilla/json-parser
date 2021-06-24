@@ -1,0 +1,1 @@
+      $(function() {&#xD;&#xA;        var $post_title = $('#post_title');&#xD;&#xA;        var $post_uri = $('#post_uri');&#xD;&#xA;        function onChange() {&#xD;&#xA;          $post_uri.val($post_title.val());&#xD;&#xA;        };&#xD;&#xA;        $('#post_title')&#xD;&#xA;          .change(onChange)&#xD;&#xA;          .keyup(onChange);&#xD;&#xA;      }); 

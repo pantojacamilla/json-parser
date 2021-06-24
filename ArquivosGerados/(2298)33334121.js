@@ -1,0 +1,1 @@
+    body {&#xD;&#xA;        background:black;&#xD;&#xA;    }&#xD;&#xA;    img {&#xD;&#xA;        display:block; &#xD;&#xA;        margin:10px; &#xD;&#xA;        height: 20%;&#xD;&#xA;    }&#xD;&#xA;    div {&#xD;&#xA;        background:red;&#xD;&#xA;        height: 200px;&#xD;&#xA;        width: 200px;   &#xD;&#xA;    }

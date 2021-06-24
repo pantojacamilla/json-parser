@@ -1,0 +1,1 @@
+    .entered {&#xD;&#xA;      font-size: 36px;&#xD;&#xA;      width: 200px;&#xD;&#xA;      height: 100px;&#xD;&#xA;      border: 2px solid black;&#xD;&#xA;    }&#xD;&#xA;    .test {&#xD;&#xA;      border: 2px solid red;&#xD;&#xA;      background: #fdd;&#xD;&#xA;      width: 60px;&#xD;&#xA;      height: 60px;&#xD;&#xA;    }

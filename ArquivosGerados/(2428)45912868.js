@@ -1,0 +1,1 @@
+        function myFunction(x) {&#xD;&#xA;        x.classList.toggle("change");&#xD;&#xA;        }&#xD;&#xA;     &#xD;&#xA;        function openNav() {&#xD;&#xA;        document.getElementById("mySidenav").style.width = "250px";&#xD;&#xA;        }&#xD;&#xA;        function closeNav() {&#xD;&#xA;        document.getElementById("mySidenav").style.width = "0";&#xD;&#xA;        }

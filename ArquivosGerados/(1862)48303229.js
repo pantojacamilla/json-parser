@@ -1,0 +1,1 @@
+var users = [&#xD;&#xA; {&#xD;&#xA;   "name": "John",&#xD;&#xA;   "country": "United States"&#xD;&#xA; },&#xD;&#xA; {&#xD;&#xA;   "name": "Jens",&#xD;&#xA;   "country": "Norway"&#xD;&#xA; }&#xD;&#xA;];&#xD;&#xA;console.log(users);

@@ -1,0 +1,1 @@
+    .show {&#xD;&#xA;          -o-transition: opacity 3s;&#xD;&#xA;          -moz-transition: opacity 3s;&#xD;&#xA;          -webkit-transition: opacity 3s;&#xD;&#xA;          transition: opacity 3s;&#xD;&#xA;          opacity:1;&#xD;&#xA;      }&#xD;&#xA;      .hide {&#xD;&#xA;          opacity:0;&#xD;&#xA;      }

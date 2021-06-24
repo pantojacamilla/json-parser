@@ -1,0 +1,1 @@
+    li>&#xD;&#xA;      <a href="/index.php" class="homelink">&#xD;&#xA;        <i class="fa fa-home"></i>&#xD;&#xA;        </a>&#xD;&#xA;        </li>&#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;    .fa-home:before {&#xD;&#xA;        content: "\f015";&#xD;&#xA;    }

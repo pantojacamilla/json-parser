@@ -1,0 +1,1 @@
+    $(document).ready(function() {&#xD;&#xA;        function setHeight() {&#xD;&#xA;           windowHeight = $(window).innerHeight();&#xD;&#xA;           $('.sidebar').css('min-height', windowHeight);&#xD;&#xA;        };&#xD;&#xA;        setHeight();&#xD;&#xA;  &#xD;&#xA;        $(window).resize(function() {&#xD;&#xA;           setHeight();&#xD;&#xA;        });&#xD;&#xA;    });

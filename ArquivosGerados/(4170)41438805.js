@@ -1,0 +1,1 @@
+function main(){&#xD;&#xA;	var func1 = function(){&#xD;&#xA;		this.name = "Peter";&#xD;&#xA;		this.age = 27; &#xD;&#xA;		this.class = "10";&#xD;&#xA;	}&#xD;&#xA;	func1.prototype.printName = function(){&#xD;&#xA;		console.log(this.name);&#xD;&#xA;	}&#xD;&#xA;	return func1; &#xD;&#xA;}&#xD;&#xA;var a = main();&#xD;&#xA;a.printName();

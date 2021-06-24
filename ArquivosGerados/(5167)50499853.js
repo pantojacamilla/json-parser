@@ -1,0 +1,1 @@
+    import UserType from './UserType';&#xD;&#xA;    import type Context from '../../Context';&#xD;&#xA;    const me = {&#xD;&#xA;      type: UserType,&#xD;&#xA;      resolve(root: any, args: any, ctx: Context) {&#xD;&#xA;        return ctx.user && ctx.userById.load(ctx.user.id);&#xD;&#xA;      },&#xD;&#xA;    };&#xD;&#xA;    export default {&#xD;&#xA;      me,&#xD;&#xA;    };

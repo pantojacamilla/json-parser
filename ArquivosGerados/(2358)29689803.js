@@ -1,0 +1,1 @@
+    #remain,&#xD;&#xA;    #total {&#xD;&#xA;      background-color: #333;&#xD;&#xA;      width: 60px;&#xD;&#xA;      height: 20px;&#xD;&#xA;      color: #fff;&#xD;&#xA;      padding: 0 10px;&#xD;&#xA;    }&#xD;&#xA;    #show {&#xD;&#xA;      display: none;&#xD;&#xA;    }

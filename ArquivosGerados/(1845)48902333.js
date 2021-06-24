@@ -1,0 +1,1 @@
+    .image-slider .slick-slide {&#xD;&#xA;      margin: 0 2px;&#xD;&#xA;      display: inline-block;&#xD;&#xA;    }&#xD;&#xA;    .image-slider a {&#xD;&#xA;      display: block;&#xD;&#xA;      width: 100%;&#xD;&#xA;    }&#xD;&#xA;    .image-slider img {&#xD;&#xA;      width: 860px;&#xD;&#xA;      height: auto;&#xD;&#xA;      margin-top: 0px;&#xD;&#xA;    }

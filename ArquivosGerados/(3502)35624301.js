@@ -1,0 +1,1 @@
+    $(document).ready(function() {&#xD;&#xA;      $("body").addClass("js");&#xD;&#xA;      var $menu = $("#menu"),&#xD;&#xA;        $menulink = $(".menu_link");&#xD;&#xA;      $menulink.click(function() {&#xD;&#xA;        $menulink.toggleClass("active");&#xD;&#xA;        $menu.toggleClass("active");&#xD;&#xA;        return false;&#xD;&#xA;      });&#xD;&#xA;    });

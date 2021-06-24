@@ -1,0 +1,1 @@
+    $(function() {&#xD;&#xA;      $('.inputForm .inputbox input').focusout(function() {&#xD;&#xA;        var text_val = $(this).val();&#xD;&#xA;        if (text_val === "") {&#xD;&#xA;          $(this).removeClass('has-value');&#xD;&#xA;        } else {&#xD;&#xA;          $(this).addClass('has-value');&#xD;&#xA;        }&#xD;&#xA;      });&#xD;&#xA;    });

@@ -1,0 +1,1 @@
+    input[type="text"] {&#xD;&#xA;        text-align: center;&#xD;&#xA;        font-size: 15px;&#xD;&#xA;         width: 200px;&#xD;&#xA;        height: 60px;&#xD;&#xA;    }&#xD;&#xA;    input[type="button"] {&#xD;&#xA;        text-align: center;&#xD;&#xA;        font-size: 15px;&#xD;&#xA;        width: 200px;&#xD;&#xA;        height: 60px;&#xD;&#xA;    }

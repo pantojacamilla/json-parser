@@ -1,0 +1,1 @@
+    .circle-transition {&#xD;&#xA;      transition-property: all;&#xD;&#xA;      transition-duration: 3s;&#xD;&#xA;      transition-timing-function: linear;&#xD;&#xA;    }&#xD;&#xA;    .text-transition {&#xD;&#xA;      transition-property: all;&#xD;&#xA;      transition-duration: 3s;&#xD;&#xA;      transition-timing-function: linear;&#xD;&#xA;    }

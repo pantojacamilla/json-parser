@@ -1,0 +1,1 @@
+    let div = document.getElementById("div1");&#xD;&#xA;    const updateTime = () => {&#xD;&#xA;      let seconds = 0;&#xD;&#xA;      if (seconds === 0) div.textContent = `0 sekund`;&#xD;&#xA;      return () => {&#xD;&#xA;        seconds++;&#xD;&#xA;        div.textContent = `${seconds} sekund`;&#xD;&#xA;      }&#xD;&#xA;    }&#xD;&#xA;    setInterval(updateTime(), 1000);

@@ -1,0 +1,1 @@
+    .rate_btn {&#xD;&#xA;      width: 25px;&#xD;&#xA;      height: 25px;&#xD;&#xA;      margin: 5px 1px;&#xD;&#xA;      border-radius: 5px;&#xD;&#xA;      display: inline-block;&#xD;&#xA;      background-color: #D8D8D8;&#xD;&#xA;    }&#xD;&#xA;    .rate_btn_active {&#xD;&#xA;      background-color: #11AB0E;&#xD;&#xA;    }

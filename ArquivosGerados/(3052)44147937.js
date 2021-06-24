@@ -1,0 +1,1 @@
+interface Foo {&#xD;&#xA;   name: string;&#xD;&#xA;}&#xD;&#xA;function go() {&#xD;&#xA;  let instance: Foo | null = null;&#xD;&#xA;  if (instance == null) {&#xD;&#xA;   console.log('Instance is null or undefined');&#xD;&#xA;  } else {&#xD;&#xA;   console.log(instance.name);&#xD;&#xA; }&#xD;&#xA;}

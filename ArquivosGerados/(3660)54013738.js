@@ -1,0 +1,1 @@
+    order = {&#xD;&#xA;     selectedDays: [{&#xD;&#xA;      meals: [&#xD;&#xA;        {name: 'breakfast',&#xD;&#xA;        selected: false},&#xD;&#xA;        {name: 'dinner',&#xD;&#xA;        selected: false},&#xD;&#xA;        {name: 'supper',&#xD;&#xA;        selected: false}&#xD;&#xA;      ],&#xD;&#xA;      selectedDay: "10/01/2018"&#xD;&#xA;    }&#xD;&#xA;    ]}

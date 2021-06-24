@@ -1,0 +1,1 @@
+    const a = [1, 2, 3]&#xD;&#xA;    a.forEach(() => {&#xD;&#xA;      a.shift()&#xD;&#xA;    })&#xD;&#xA;    console.log(a) // [ 3 ]&#xD;&#xA;    const b = [1, 2, 3]&#xD;&#xA;    b.forEach(() => {&#xD;&#xA;      b.pop()&#xD;&#xA;    })&#xD;&#xA;    console.log(b) // prints [ 1 ]

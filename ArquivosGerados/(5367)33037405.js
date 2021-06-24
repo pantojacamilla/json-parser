@@ -1,0 +1,1 @@
+    table td:first-child {&#xD;&#xA;      text-align: right;&#xD;&#xA;    }&#xD;&#xA;    body {&#xD;&#xA;      font-family: Verdana, Geneva, Tahoma, sans-serif;&#xD;&#xA;      color: #2F5496;&#xD;&#xA;      font-size: 80%;&#xD;&#xA;      font-weight: bold;&#xD;&#xA;    }&#xD;&#xA;    .ui-datepicker {&#xD;&#xA;      font-size: 100%;&#xD;&#xA;    }

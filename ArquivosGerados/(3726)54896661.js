@@ -1,0 +1,1 @@
+    .selectedModifiersList {&#xD;&#xA;      max-height: 45px;&#xD;&#xA;      overflow: hidden;&#xD;&#xA;      line-height: 1;&#xD;&#xA;      margin-bottom: 20px;&#xD;&#xA;    }&#xD;&#xA;    .selectedModifiersList.viewMore {&#xD;&#xA;      max-height: 100%;&#xD;&#xA;      overflow: auto;&#xD;&#xA;    }

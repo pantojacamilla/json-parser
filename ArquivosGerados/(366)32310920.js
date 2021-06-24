@@ -1,0 +1,1 @@
+    <style>&#xD;&#xA;      #spikes {&#xD;&#xA;        width: 100px;&#xD;&#xA;        height: 100px;&#xD;&#xA;        border-radius: 50px;&#xD;&#xA;        background-color: #FF0000;&#xD;&#xA;    }&#xD;&#xA;    </style>&#xD;&#xA;    <div id="withspike"></div>&#xD;&#xA;    <div id="withid"></div>&#xD;&#xA;    <div onclick="itemClicked(id)" id="spikes"></div>

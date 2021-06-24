@@ -1,0 +1,1 @@
+    body {&#xD;&#xA;      background-color: #802828;&#xD;&#xA;      color: #fff;&#xD;&#xA;    }&#xD;&#xA;    #roomCanvas1 {&#xD;&#xA;      height: 600px;&#xD;&#xA;      width: 800px;&#xD;&#xA;      padding: 0;&#xD;&#xA;      border: 1px solid #0f0;&#xD;&#xA;    }

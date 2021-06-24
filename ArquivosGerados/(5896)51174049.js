@@ -1,0 +1,1 @@
+    function moveToLink(){&#xD;&#xA;        var button = document.getElementById('button');&#xD;&#xA;        var link = document.createElement('a');&#xD;&#xA;        link.setAttribute('href', '#');&#xD;&#xA;        &#xD;&#xA;        link.appendChild( button); // need wrap&#xD;&#xA;     &#xD;&#xA;      }&#xD;&#xA;      &#xD;&#xA;      moveToLink();

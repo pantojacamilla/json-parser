@@ -1,0 +1,1 @@
+    new Vue({&#xD;&#xA;      el: "#app",&#xD;&#xA;      data: {&#xD;&#xA;        iExist:false,&#xD;&#xA;        iDoNotExist: true,&#xD;&#xA;      },&#xD;&#xA;      methods: {&#xD;&#xA;        iSignedUpforThis: function(){&#xD;&#xA;          console.log("step X");&#xD;&#xA;        }&#xD;&#xA;      }&#xD;&#xA;    })

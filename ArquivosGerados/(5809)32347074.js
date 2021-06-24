@@ -1,0 +1,1 @@
+     function printConsole() {&#xD;&#xA;         console.log("This is From Function A");&#xD;&#xA;     }&#xD;&#xA;     function printAlert() {&#xD;&#xA;         alert("This is From Function B");&#xD;&#xA;     }&#xD;&#xA;      $("#toggler").toggle(&#xD;&#xA;                       printConsole();&#xD;&#xA;                       printAlert();&#xD;&#xA;           );

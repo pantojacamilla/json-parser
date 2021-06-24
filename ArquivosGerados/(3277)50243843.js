@@ -1,0 +1,1 @@
+    $( '.hvr-ripple-out' ).click(function() {&#xD;&#xA;      $(this).toggleClass( 'fill' );&#xD;&#xA;    });&#xD;&#xA;    $( '.hvr-ripple-out' ).on( 'click tap', function() {&#xD;&#xA;      var el = $(this),&#xD;&#xA;        newone = el.clone(true);&#xD;&#xA;      el.before(newone);&#xD;&#xA;      el.remove();&#xD;&#xA;      newone.addClass( 'fill' );&#xD;&#xA;    });

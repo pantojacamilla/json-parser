@@ -1,0 +1,1 @@
+    export default {&#xD;&#xA;    data() {&#xD;&#xA;        return {&#xD;&#xA;        blogs: [],&#xD;&#xA;        minbed: "",&#xD;&#xA;          maxbed: "",&#xD;&#xA;            };&#xD;&#xA;      },&#xD;&#xA;    selectOptionsBedroom() {&#xD;&#xA;          return _.uniqBy(this.blogs.map(g => g.Bedrooms));&#xD;&#xA;         &#xD;&#xA;        }&#xD;&#xA;        };

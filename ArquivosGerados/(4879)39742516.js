@@ -1,0 +1,1 @@
+    .col-centered {&#xD;&#xA;    	border:3px solid blue;&#xD;&#xA;    }&#xD;&#xA;    #primary {&#xD;&#xA;    	padding:15px;&#xD;&#xA;    }&#xD;&#xA;    #firstCont {&#xD;&#xA;    	height:0px;&#xD;&#xA;    	width:0px;&#xD;&#xA;    	overflow:hidden;&#xD;&#xA;    	opacity:0.5;&#xD;&#xA;    }

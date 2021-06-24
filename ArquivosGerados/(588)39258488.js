@@ -1,0 +1,1 @@
+    (function() {&#xD;&#xA;    'use strict';&#xD;&#xA;    angular.module('app', [&#xD;&#xA;     'app.core',&#xD;&#xA;     'app.widgets',&#xD;&#xA;     'app.admin',&#xD;&#xA;     'app.people',         // ** NEW PEOPLE MODULE **&#xD;&#xA;     'app.dashboard',&#xD;&#xA;     'app.layout'&#xD;&#xA;    ]);&#xD;&#xA;    })();

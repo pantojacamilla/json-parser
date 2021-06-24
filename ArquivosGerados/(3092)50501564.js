@@ -1,0 +1,1 @@
+    data() {&#xD;&#xA;            return {&#xD;&#xA;                options: [{&#xD;&#xA;                    values: ['a', 'b', 'c']&#xD;&#xA;                }],&#xD;&#xA;                variants: [],&#xD;&#xA;                p: {            &#xD;&#xA;                   option_1: null &#xD;&#xA;                }&#xD;&#xA;            }&#xD;&#xA;        }

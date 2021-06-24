@@ -1,0 +1,1 @@
+    window.APP = {&#xD;&#xA;      models: {&#xD;&#xA;        home: {&#xD;&#xA;            title: 'Home'&#xD;&#xA;            URL:  ???&#xD;&#xA;        },&#xD;&#xA;        menu: {&#xD;&#xA;            title: 'Main Menu'&#xD;&#xA;        },&#xD;&#xA;        cards: {&#xD;&#xA;            title: 'Cards'&#xD;&#xA;        },&#xD;&#xA;      }&#xD;&#xA;    };

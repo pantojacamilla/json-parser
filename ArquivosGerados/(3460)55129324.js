@@ -1,0 +1,1 @@
+    const printDuplicates = (arr) => {&#xD;&#xA;      let newArray = [];&#xD;&#xA;      for (let i = 0; i < arr.length; i++) {&#xD;&#xA;        if (arr[i] === arr[i] + 1) {&#xD;&#xA;          newArray.push(arr[i]);&#xD;&#xA;        }&#xD;&#xA;      }&#xD;&#xA;      return newArray&#xD;&#xA;    }&#xD;&#xA;    console.log(printDuplicates([1, 2, 2, 4, 4, 5, 6, 7, 7, 8, 9]));

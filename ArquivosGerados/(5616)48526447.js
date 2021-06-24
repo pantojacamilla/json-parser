@@ -1,0 +1,1 @@
+    $(document).ready(function() {&#xD;&#xA;      $("select").change(function() {&#xD;&#xA;        if ($("#situation").val() != "") {&#xD;&#xA;          $("#calculate").removeClass("disabled");&#xD;&#xA;        } else {&#xD;&#xA;          $("#calculate").addClass("disabled");&#xD;&#xA;        }&#xD;&#xA;      });&#xD;&#xA;      $("select").change();&#xD;&#xA;    });

@@ -1,0 +1,1 @@
+    .navModalCircleContainer {&#xD;&#xA;      display: flex;&#xD;&#xA;      justify-content: space-between;&#xD;&#xA;      padding: 0 25%;&#xD;&#xA;    }&#xD;&#xA;    .navModalCircle {&#xD;&#xA;      height: 25px;&#xD;&#xA;      width: 25px;&#xD;&#xA;      border-radius: 100%;&#xD;&#xA;      background: #000000;&#xD;&#xA;    }

@@ -1,0 +1,1 @@
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>&#xD;&#xA;    <div>&#xD;&#xA;      Введите текст: &#xD;&#xA;      <input id="text" type="text"></input>&#xD;&#xA;      <input id="button" type="submit"></input>&#xD;&#xA;    </div>&#xD;&#xA;    <div class="ul">&#xD;&#xA;      <ul>&#xD;&#xA;      </ul>&#xD;&#xA;    </div>

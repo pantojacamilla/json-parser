@@ -1,0 +1,1 @@
+    header.is-fixed {&#xD;&#xA;    	position:sticky;&#xD;&#xA;    	z-index:9999;&#xD;&#xA;    	left:0;&#xD;&#xA;    	right:0;&#xD;&#xA;    	top:0;&#xD;&#xA;    	padding:1.5rem 0;&#xD;&#xA;    	transition:0.2s;&#xD;&#xA;      background-color:#333;&#xD;&#xA;    }&#xD;&#xA;    header.shrink {&#xD;&#xA;    	padding:0.75rem 0;&#xD;&#xA;    }

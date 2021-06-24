@@ -1,0 +1,1 @@
+    const div = (tag) => {&#xD;&#xA;      const ptag = document.querySelector(tag);&#xD;&#xA;      const shadow = ptag.attachShadow({&#xD;&#xA;         mode: 'closed'&#xD;&#xA;      });&#xD;&#xA;      const div = document.createElement('div');&#xD;&#xA;      div.textContent = ptag.textContent;&#xD;&#xA;      shadow.appendChild(div);&#xD;&#xA;    }&#xD;&#xA;    div('foo-bar')

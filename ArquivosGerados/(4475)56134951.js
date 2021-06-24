@@ -1,0 +1,1 @@
+      alert(test()&#xD;&#xA;          .then(function(result) {&#xD;&#xA;            return result;&#xD;&#xA;        }));&#xD;&#xA;        &#xD;&#xA;        function test(serialized) {&#xD;&#xA;          return new Promise(function(resolve, reject) {&#xD;&#xA;            resolve("Hello");&#xD;&#xA;          });&#xD;&#xA;        }

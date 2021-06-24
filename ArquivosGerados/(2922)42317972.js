@@ -1,0 +1,1 @@
+    table{&#xD;&#xA;      &#xD;&#xA;      width: 360px;&#xD;&#xA;      height: 360px;&#xD;&#xA;      border: 1px solid black;&#xD;&#xA;      border-collapse: collapse;&#xD;&#xA;    }&#xD;&#xA;    td{&#xD;&#xA;      &#xD;&#xA;      border: 1px solid black;&#xD;&#xA;      text-align: center;&#xD;&#xA;    }

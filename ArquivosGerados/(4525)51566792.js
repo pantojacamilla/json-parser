@@ -1,0 +1,1 @@
+    function foo() {&#xD;&#xA;      if (true) {&#xD;&#xA;        return {&#xD;&#xA;          bool: bool,&#xD;&#xA;          string: "string"&#xD;&#xA;        };&#xD;&#xA;      } else {&#xD;&#xA;        return false;&#xD;&#xA;      }&#xD;&#xA;    }&#xD;&#xA;    function callFoo {&#xD;&#xA;      var obj = foo();&#xD;&#xA;    }

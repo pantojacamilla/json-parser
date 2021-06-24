@@ -1,0 +1,1 @@
+    .info {&#xD;&#xA;      height:150px;&#xD;&#xA;      display:table-cell;&#xD;&#xA;      vertical-align:middle;&#xD;&#xA;      cursor:pointer;&#xD;&#xA;    }&#xD;&#xA;    .more-info {&#xD;&#xA;      margin-top:-30px;&#xD;&#xA;      display:none;&#xD;&#xA;    }

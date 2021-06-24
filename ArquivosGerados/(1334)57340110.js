@@ -1,0 +1,1 @@
+    table {&#xD;&#xA;      border-spacing: 0;&#xD;&#xA;      width: 100%;&#xD;&#xA;      border: 1px solid #ddd;&#xD;&#xA;    }&#xD;&#xA;    th,&#xD;&#xA;    td {&#xD;&#xA;      text-align: left;&#xD;&#xA;      padding: 16px;&#xD;&#xA;    }&#xD;&#xA;    tr:nth-child(even) {&#xD;&#xA;      background-color: #f2f2f2&#xD;&#xA;    }

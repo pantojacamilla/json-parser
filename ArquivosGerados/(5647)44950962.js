@@ -1,0 +1,1 @@
+    label[for="event_Would you like to stay informed about updates and changes to this event?"] {&#xD;&#xA;        width: 100% !important;&#xD;&#xA;        line-height: 20px;&#xD;&#xA;    }&#xD;&#xA;    label[for="event_Please specify"] {&#xD;&#xA;        display: none;&#xD;&#xA;    }&#xD;&#xA;    input#event_Please_specify{&#xD;&#xA;        display: none;&#xD;&#xA;    }

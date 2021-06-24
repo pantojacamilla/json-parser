@@ -1,0 +1,1 @@
+    #search-criteria {&#xD;&#xA;      padding: 10px;&#xD;&#xA;      margin-top: -6px;&#xD;&#xA;      border: 0;&#xD;&#xA;      border-radius: 0;&#xD;&#xA;      background: #f1f1f1;&#xD;&#xA;    }&#xD;&#xA;    span.searchitem {&#xD;&#xA;      display: none;&#xD;&#xA;    }

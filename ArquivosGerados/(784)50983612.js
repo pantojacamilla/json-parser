@@ -1,0 +1,1 @@
+    module.exports = {&#xD;&#xA;      queryfunc: function() {&#xD;&#xA;    const Influx = require('influxdb-nodejs');&#xD;&#xA;    const client = new Influx('http://127.0.0.1:8086/mydb');&#xD;&#xA;    client.query('http')&#xD;&#xA;      .where('type', '2')&#xD;&#xA;       .then(console.info)&#xD;&#xA;       .catch(console.error);&#xD;&#xA;      }&#xD;&#xA;    }

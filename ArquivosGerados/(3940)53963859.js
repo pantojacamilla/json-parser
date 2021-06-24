@@ -1,0 +1,1 @@
+    .numpad{&#xD;&#xA;        padding:1%;&#xD;&#xA;        width:100%;&#xD;&#xA;    }&#xD;&#xA;    .hidpad{&#xD;&#xA;       visibility:hidden;&#xD;&#xA;    }&#xD;&#xA;    .btn-call{&#xD;&#xA;        margin-top:3%;&#xD;&#xA;       margin-bottom:5%;&#xD;&#xA;    }

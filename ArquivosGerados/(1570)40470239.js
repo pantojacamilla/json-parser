@@ -1,0 +1,1 @@
+    svg {&#xD;&#xA;      transform-origin: 0 0;&#xD;&#xA;    }&#xD;&#xA;    div#D1 {&#xD;&#xA;      position: relative;&#xD;&#xA;    }&#xD;&#xA;    div#C1 {&#xD;&#xA;      position: flex;&#xD;&#xA;      flex-direction: column;&#xD;&#xA;      height: fit-content;&#xD;&#xA;      border: 1px solid blue;&#xD;&#xA;    }

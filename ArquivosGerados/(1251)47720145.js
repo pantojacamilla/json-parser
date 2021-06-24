@@ -1,0 +1,1 @@
+    <!DOCTYPE html>&#xD;&#xA;    <html>&#xD;&#xA;    <head>&#xD;&#xA;    	<title>Datalist Test</title>&#xD;&#xA;    </head>&#xD;&#xA;    <body>&#xD;&#xA;    	<input list="datalist-test" type="text">&#xD;&#xA;    	<datalist id="datalist-test">&#xD;&#xA;    	</datalist>&#xD;&#xA;    </body>&#xD;&#xA;    </html>

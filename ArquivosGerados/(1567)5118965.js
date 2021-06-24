@@ -1,0 +1,1 @@
+    var num = 0;&#xD;&#xA;    for(var i = 0; i < 10; i++){&#xD;&#xA;      for(var j = 0; j < 10 ; j++){&#xD;&#xA;        if(i == 5 && j == 5){&#xD;&#xA;          break;&#xD;&#xA;        }&#xD;&#xA;        num++;&#xD;&#xA;      }&#xD;&#xA;    }&#xD;&#xA;    console.log(num)

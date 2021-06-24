@@ -1,0 +1,1 @@
+    public class Osoba {&#xD;&#xA;      public String imie;&#xD;&#xA;      public String nazwisko;&#xD;&#xA;      Osoba() {&#xD;&#xA;        imie = null;&#xD;&#xA;        nazwisko = null;&#xD;&#xA;      }&#xD;&#xA;      Osoba(String imie, String nazwisko) {&#xD;&#xA;        this.imie = imie;&#xD;&#xA;        this.nazwisko = nazwisko;&#xD;&#xA;      }&#xD;&#xA;    }

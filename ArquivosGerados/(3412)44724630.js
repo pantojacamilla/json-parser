@@ -1,0 +1,1 @@
+    $('#go').on('click', function() {&#xD;&#xA;      var nonempty = $('.number').filter(function() {&#xD;&#xA;        return (this.value) != 0;&#xD;&#xA;        // return isNaN(this.value);&#xD;&#xA;      })&#xD;&#xA;      if (nonempty.length == '') {&#xD;&#xA;        alert('Fail');&#xD;&#xA;      } else {&#xD;&#xA;        alert('Pass');&#xD;&#xA;      }&#xD;&#xA;    })

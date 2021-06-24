@@ -1,0 +1,1 @@
+    var x = "foo",&#xD;&#xA;        a = [];&#xD;&#xA;    for(var i=0;i<10;i++){&#xD;&#xA;      var x = {value:1+i};&#xD;&#xA;      a.push(x)&#xD;&#xA;    }&#xD;&#xA;    document.write("<pre>" + &#xD;&#xA;                   x.value + "\n" + &#xD;&#xA;                   JSON.stringify(a,null,"  ") + &#xD;&#xA;                   "</pre>"&#xD;&#xA;                  );

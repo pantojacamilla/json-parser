@@ -1,0 +1,1 @@
+    projectionConfig: {&#xD;&#xA;              rotation: [90,-30]&#xD;&#xA;            }&#xD;&#xA;    &#xD;&#xA;    projectionConfig: {&#xD;&#xA;              rotation: [350,-30]&#xD;&#xA;            }&#xD;&#xA;    projectionConfig: {&#xD;&#xA;              rotation: [-99,-10]&#xD;&#xA;            }

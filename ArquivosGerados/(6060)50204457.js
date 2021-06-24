@@ -1,0 +1,1 @@
+    $(document).ready(function(){&#xD;&#xA;    $('.hide-show').hide(); &#xD;&#xA;    $(window).scroll(function () {&#xD;&#xA;        var y = $(this).scrollTop();&#xD;&#xA;        if (y > 950) {&#xD;&#xA;            $('.hide-show').fadeIn();&#xD;&#xA;        } else {&#xD;&#xA;            $('.hide-show').fadeOut();&#xD;&#xA;        }&#xD;&#xA;    });&#xD;&#xA;    });

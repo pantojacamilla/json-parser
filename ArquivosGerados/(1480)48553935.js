@@ -1,0 +1,1 @@
+    	add_action('wp_ajax_ele_inSelectionGrid', 'ele_inSelectionGrid');&#xD;&#xA;    	function ele_inSelectionGrid()&#xD;&#xA;    	{&#xD;&#xA;    		session_start();&#xD;&#xA;    		$customData                 =$_POST['data'];&#xD;&#xA;    		$_SESSION['data']     =$customData;&#xD;&#xA;    		unset($_POST['data']);&#xD;&#xA;    		die();&#xD;&#xA;    		return;&#xD;&#xA;    	};	

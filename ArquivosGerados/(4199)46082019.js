@@ -1,0 +1,1 @@
+      </head>&#xD;&#xA;      <body>&#xD;&#xA;    &#xD;&#xA;        <div class="body">&#xD;&#xA;          <h1>Quote Machine</h1>&#xD;&#xA;          <div id="quote">Here is the quote</div>&#xD;&#xA;          <button id="quotebtn" type="button" class="btn btn-primary">Button</button>&#xD;&#xA;          &#xD;&#xA;        </div>&#xD;&#xA;      </body>&#xD;&#xA;    </html>

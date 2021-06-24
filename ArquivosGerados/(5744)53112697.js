@@ -1,0 +1,1 @@
+    $(document).ready(function() {&#xD;&#xA;     $('#table-mh-admin-blog').DataTable( {&#xD;&#xA;     dom : '<Blfr<t>ipl>',&#xD;&#xA;          buttons: [&#xD;&#xA;              'copy', 'excel', 'pdf', 'print'&#xD;&#xA;          ],&#xD;&#xA;        select: true,&#xD;&#xA;                "order": [[ 4, "asc" ]],&#xD;&#xA;        stateSave: true,&#xD;&#xA;     } );&#xD;&#xA;    } );

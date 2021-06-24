@@ -1,0 +1,1 @@
+    public static void terribleMaze(){&#xD;&#xA;    for(int a=0;a<x;a++){&#xD;&#xA;    for(int b=0;b<x;b++){&#xD;&#xA;    for(int c=0;c<x;c++){&#xD;&#xA;    for(int d=0;d<x;c++){&#xD;&#xA;    if(math.random()<.1/*"maze" density"*/){&#xD;&#xA;    maze[a][b][c][d]=true;&#xD;&#xA;    }&#xD;&#xA;    }&#xD;&#xA;    }&#xD;&#xA;    }&#xD;&#xA;    }&#xD;&#xA;    }

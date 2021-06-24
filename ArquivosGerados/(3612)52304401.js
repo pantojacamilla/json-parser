@@ -1,0 +1,1 @@
+    #portfolio {&#xD;&#xA;      display: flex;&#xD;&#xA;    }&#xD;&#xA;    #toggle-description {&#xD;&#xA;      width: 100%;&#xD;&#xA;      border: 1px solid #000;&#xD;&#xA;      border-radius: 5px;&#xD;&#xA;      padding: 1em;&#xD;&#xA;    }&#xD;&#xA;    .content-description p {&#xD;&#xA;      margin: 0;&#xD;&#xA;      font-size: 2em;&#xD;&#xA;    }

@@ -1,0 +1,1 @@
+     "data": [&#xD;&#xA;    {&#xD;&#xA;    "impuesto": "IVA",&#xD;&#xA;    "idConcepto": "30",&#xD;&#xA;    "id": "607",&#xD;&#xA;    "datos": {&#xD;&#xA;    "anticipo": "PRESENTACION",&#xD;&#xA;    "vencimiento": "2017-09-18",&#xD;&#xA;    "agencia": "AFIP",&#xD;&#xA;    "id_perfil": "187"&#xD;&#xA;    }&#xD;&#xA;    }&#xD;&#xA;    ]

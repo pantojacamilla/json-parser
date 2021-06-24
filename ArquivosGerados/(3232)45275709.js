@@ -1,0 +1,1 @@
+    .nav {&#xD;&#xA;      margin:10px 10px 10px 10px;&#xD;&#xA;      font-size:120%;&#xD;&#xA;      text-align:center;&#xD;&#xA;      padding-bottom:20px;&#xD;&#xA;      position:static;&#xD;&#xA;    }&#xD;&#xA;    .nav > li {&#xD;&#xA;      display:inline-block;&#xD;&#xA;      list-style:none;&#xD;&#xA;      margin-right:10px;&#xD;&#xA;    }

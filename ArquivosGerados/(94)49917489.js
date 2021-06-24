@@ -1,0 +1,1 @@
+    img {&#xD;&#xA;      width: 220px;&#xD;&#xA;      height: 150px;&#xD;&#xA;    }&#xD;&#xA;    ul {&#xD;&#xA;      list-style: none;&#xD;&#xA;    }&#xD;&#xA;    li {&#xD;&#xA;      display: initial;&#xD;&#xA;    }

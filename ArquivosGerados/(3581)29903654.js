@@ -1,0 +1,1 @@
+    #map-canvas img {&#xD;&#xA;      max-width: none !important;&#xD;&#xA;    }&#xD;&#xA;    #map-canvas {&#xD;&#xA;      min-width: 100% !important;&#xD;&#xA;      max-width: 100% !important;&#xD;&#xA;    }&#xD;&#xA;    #map-canvas {&#xD;&#xA;      width:100%;&#xD;&#xA;      height:400px;&#xD;&#xA;    }

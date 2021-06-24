@@ -1,0 +1,1 @@
+    class Book {&#xD;&#xA;      constructor(title) {&#xD;&#xA;        this.name = "Book";&#xD;&#xA;        this.title = title;&#xD;&#xA;      }&#xD;&#xA;    }&#xD;&#xA;    Object.setPrototypeOf(Book.prototype, {&#xD;&#xA;      state: 'OH',&#xD;&#xA;      country: 'US'&#xD;&#xA;    })&#xD;&#xA;    let newBook = new Book('Lolita')&#xD;&#xA;    console.log(newBook.state) //OH

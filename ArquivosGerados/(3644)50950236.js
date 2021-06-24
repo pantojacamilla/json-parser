@@ -1,0 +1,1 @@
+    function oddOrEven(N) {&#xD;&#xA;      if (N % 2 == 1) {&#xD;&#xA;        console.log('Weird');&#xD;&#xA;      } else if (2 <= N <= 5) {&#xD;&#xA;        console.log('Not Weird');&#xD;&#xA;      } else if (6 <= N <= 20) {&#xD;&#xA;        console.log('Weird');&#xD;&#xA;      } else if (N > 20) {&#xD;&#xA;        console.log('Not Weird');&#xD;&#xA;      }&#xD;&#xA;    }

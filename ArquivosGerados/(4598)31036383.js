@@ -1,0 +1,1 @@
+    .shower{&#xD;&#xA;	background-color: #652D90;&#xD;&#xA;    }&#xD;&#xA;    .people{&#xD;&#xA;	background-color: #29B473;&#xD;&#xA;    }&#xD;&#xA;    .water{&#xD;&#xA;	background-color: #2B388F;&#xD;&#xA;    }&#xD;&#xA;    .city{&#xD;&#xA;	background-color: #FAAF40;&#xD;&#xA;    }

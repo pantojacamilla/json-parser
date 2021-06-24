@@ -1,0 +1,1 @@
+    function updateTitle(){&#xD;&#xA;    	var title = document.getElementById("info_title");&#xD;&#xA;    	var oldTitle = title.value;&#xD;&#xA;    	title.onfocusout = function(){&#xD;&#xA;    		var newTitle = title.value;&#xD;&#xA;            if(newTitle != oldTitle){&#xD;&#xA;                update();&#xD;&#xA;            }&#xD;&#xA;    	}&#xD;&#xA;    }

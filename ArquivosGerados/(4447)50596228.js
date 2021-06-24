@@ -1,0 +1,1 @@
+    var filters = ['all',null,'men','bi',null];&#xD;&#xA;    var text = '';&#xD;&#xA;    var i;&#xD;&#xA;    for (i = 0; i < filters.length; i++) { &#xD;&#xA;    if(filters[i]!= null){&#xD;&#xA;      text += "p[data-st!="+filters[i]+"]";&#xD;&#xA;    }&#xD;&#xA;        &#xD;&#xA;    }&#xD;&#xA;    console.log(text);

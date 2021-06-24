@@ -1,0 +1,1 @@
+    body {&#xD;&#xA;      margin: 50px;&#xD;&#xA;    }&#xD;&#xA;    .carousel {&#xD;&#xA;      width: 900px;&#xD;&#xA;      margin: 10px;&#xD;&#xA;    }&#xD;&#xA;    .carousel-indicators .active {&#xD;&#xA;      background-color: #faa82b !important;&#xD;&#xA;    }

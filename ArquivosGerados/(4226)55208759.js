@@ -1,0 +1,1 @@
+    $("#testButton").click(function() {&#xD;&#xA;      $.ajax({&#xD;&#xA;        method: "get",&#xD;&#xA;        async: false,&#xD;&#xA;        url: "/test"&#xD;&#xA;      }).done(function (response){&#xD;&#xA;        alert(response.imageData);&#xD;&#xA;        $("#resultImage").attr("src", "data:image/png;base64," + response.imageData);&#xD;&#xA;      });&#xD;&#xA;    });

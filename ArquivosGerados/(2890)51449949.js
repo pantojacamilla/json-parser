@@ -1,0 +1,1 @@
+    EXPECT true:&#xD;&#xA;    true = onlyOne( 1, 0, 0)&#xD;&#xA;    true = onlyOne( 0, 1, 0)&#xD;&#xA;    true = onlyOne( 0, 0, 1)&#xD;&#xA;    &#xD;&#xA;    EXPECT false:&#xD;&#xA;    0 = onlyOne( 0, 0, 0)&#xD;&#xA;    false = onlyOne( 0, 1, 1)&#xD;&#xA;    false = onlyOne( 1, 0, 1)&#xD;&#xA;    0 = onlyOne( 1, 1, 0)&#xD;&#xA;    false = onlyOne( 1, 1, 1)

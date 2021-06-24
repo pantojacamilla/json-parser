@@ -1,0 +1,1 @@
+    #editable{&#xD;&#xA;        border: 1px solid #000000;&#xD;&#xA;        margin-top: 20px;&#xD;&#xA;        height: 50px;&#xD;&#xA;        font-family: Arial;&#xD;&#xA;    }&#xD;&#xA;    .bold{&#xD;&#xA;        font-weight: bold;&#xD;&#xA;    }&#xD;&#xA;    .italic{&#xD;&#xA;        font-style: italic;&#xD;&#xA;    }

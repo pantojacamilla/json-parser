@@ -1,0 +1,1 @@
+    let a = [0, 1, 2, 0, 0, 3, 0];&#xD;&#xA;    let count = 0;&#xD;&#xA;    let len = a.length;&#xD;&#xA;    for (i = 0; i < len; i++) {&#xD;&#xA;      if (a[i] == 0) {&#xD;&#xA;        count = count + 1;&#xD;&#xA;        a.splice(i, 1);&#xD;&#xA;      }&#xD;&#xA;    }&#xD;&#xA;    for (j = 0; j < count; j++) {&#xD;&#xA;      a.push(0);&#xD;&#xA;    }&#xD;&#xA;    console.log(a);

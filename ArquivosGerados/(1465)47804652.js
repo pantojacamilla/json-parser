@@ -1,0 +1,1 @@
+    <html>&#xD;&#xA;    <head>&#xD;&#xA;      <title>This is a title</title>&#xD;&#xA;    </head>&#xD;&#xA;    <body>&#xD;&#xA;      My name is <span id="person">Anon</span>.&#xD;&#xA;      <script type="text/javascript">&#xD;&#xA;      console.log(document.getElementById('person').innerText)&#xD;&#xA;      </script>&#xD;&#xA;    </body>&#xD;&#xA;    </html>
