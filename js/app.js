@@ -9,7 +9,7 @@ document.querySelector('#json').addEventListener('change', (event) => {
 
     parsedJson.forEach((file, i) => {
       let blob = new Blob([file.Content], { type: "text/javascript;charset=utf-8" });
-      saveAs(blob, `(${i + 1})${file.PostId}.js`);
+      window.saveAs(blob, `(${i + 1})${file.PostId}.js`);
     });
 
   };
